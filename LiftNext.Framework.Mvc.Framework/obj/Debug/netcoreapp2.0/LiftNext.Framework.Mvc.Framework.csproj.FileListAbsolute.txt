@@ -1,0 +1,15 @@
+C:\SGProject\LiftNextCoreOpen\LiftNext.Framework.Mvc.Framework\bin\Debug\netcoreapp2.0\LiftNext.Framework.Mvc.Framework.deps.json
+C:\SGProject\LiftNextCoreOpen\LiftNext.Framework.Mvc.Framework\bin\Debug\netcoreapp2.0\LiftNext.Framework.Mvc.Framework.dll
+C:\SGProject\LiftNextCoreOpen\LiftNext.Framework.Mvc.Framework\bin\Debug\netcoreapp2.0\LiftNext.Framework.Mvc.Framework.pdb
+C:\SGProject\LiftNextCoreOpen\LiftNext.Framework.Mvc.Framework\bin\Debug\netcoreapp2.0\LiftNext.Framework.Code.dll
+C:\SGProject\LiftNextCoreOpen\LiftNext.Framework.Mvc.Framework\bin\Debug\netcoreapp2.0\LiftNext.Framework.Data.dll
+C:\SGProject\LiftNextCoreOpen\LiftNext.Framework.Mvc.Framework\bin\Debug\netcoreapp2.0\LiftNext.Framework.Domain.dll
+C:\SGProject\LiftNextCoreOpen\LiftNext.Framework.Mvc.Framework\bin\Debug\netcoreapp2.0\LiftNext.Framework.Code.pdb
+C:\SGProject\LiftNextCoreOpen\LiftNext.Framework.Mvc.Framework\bin\Debug\netcoreapp2.0\LiftNext.Framework.Data.pdb
+C:\SGProject\LiftNextCoreOpen\LiftNext.Framework.Mvc.Framework\bin\Debug\netcoreapp2.0\LiftNext.Framework.Domain.pdb
+C:\SGProject\LiftNextCoreOpen\LiftNext.Framework.Mvc.Framework\obj\Debug\netcoreapp2.0\LiftNext.Framework.Mvc.Framework.csprojResolveAssemblyReference.cache
+C:\SGProject\LiftNextCoreOpen\LiftNext.Framework.Mvc.Framework\obj\Debug\netcoreapp2.0\LiftNext.Framework.Mvc.Framework.csproj.CoreCompileInputs.cache
+C:\SGProject\LiftNextCoreOpen\LiftNext.Framework.Mvc.Framework\obj\Debug\netcoreapp2.0\LiftNext.Framework.Mvc.Framework.AssemblyInfoInputs.cache
+C:\SGProject\LiftNextCoreOpen\LiftNext.Framework.Mvc.Framework\obj\Debug\netcoreapp2.0\LiftNext.Framework.Mvc.Framework.AssemblyInfo.cs
+C:\SGProject\LiftNextCoreOpen\LiftNext.Framework.Mvc.Framework\obj\Debug\netcoreapp2.0\LiftNext.Framework.Mvc.Framework.dll
+C:\SGProject\LiftNextCoreOpen\LiftNext.Framework.Mvc.Framework\obj\Debug\netcoreapp2.0\LiftNext.Framework.Mvc.Framework.pdb

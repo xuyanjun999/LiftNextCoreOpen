@@ -1,0 +1,71 @@
+{
+    "Success": true,
+    "Result": {
+        
+        "Layout": [{
+            "L3": [{
+                "Group": "公共参数3",
+                "Items": [{
+                    "fieldLabel": "电梯型号",
+                    "xtype": "textfield",
+                    "name": "Type"
+                }, {
+                    "fieldLabel": "机房类型",
+                    "xtype": "textfield",
+                    "name": "JFLX"
+                }, {
+                    "fieldLabel": "速度",
+                    "xtype": "textfield",
+                    "name": "Speed"
+                }, {
+                    "fieldLabel": "Test",
+                    "height": 400,
+                    "columnWidth": 1
+                }]
+            }, {
+                "Group": "井道平面3",
+                "Items": [{
+                    "fieldLabel": "载重",
+                    "xtype": "textfield",
+                    "name": "Load"
+                }, {
+                    "fieldLabel": "对重位置",
+                    "xtype": "textfield",
+                    "name": "DZWZ"
+                }, {
+                    "fieldLabel": "贯通门与否",
+                    "xtype": "sef-boolcombo",
+                    "name": "KDMYF"
+                }, {
+                    "fieldLabel": "Test2",
+                    "height": 600,
+                    "columnWidth": 1
+                }]
+            }, {
+                "Group": "对重3",
+                "Items": [{
+                    "fieldLabel": "载重",
+                    "xtype": "textfield",
+                    "name": "Load2"
+                }, {
+                    "fieldLabel": "对重位置",
+                    "xtype": "textfield",
+                    "name": "DZWZ3"
+                }, {
+                    "fieldLabel": "贯通门与否",
+                    "xtype": "sef-boolcombo",
+                    "name": "KDMYF3"
+                }, {
+                    "fieldLabel": "Test3",
+                    "height": 600,
+                    "columnWidth": 1
+                }]
+            }]
+        }],
+        "Data": [{
+            "L3": {
+                "Code": "2011"
+            }
+        }]
+    }
+}

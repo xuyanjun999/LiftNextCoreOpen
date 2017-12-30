@@ -1,0 +1,179 @@
+{
+    "Success": true,
+    "Message": "Not Auth",
+    "Result": {
+        "ID": 10,
+        "LoginName": "admin",
+        "Name": "AdminUser",
+        "Token": "XAAEFCCC",
+        "Email": "admin@seungee.com",
+        "LastLogin": "2017-05-01",
+      "Menus": [
+        {
+          "Text": "仪表盘",
+          "FuncCode": "Apply,Design,Audit,MultiDept,Business,Admin,System",
+          "IconCls": "x-fa fa-tachometer",
+          "Path": "",
+          "Leaf": true
+        },
+        {
+          "Text": "土建图管理",
+          "IconCls": "x-fa fa-cube",
+          "FuncCode": "Apply,Design,Audit,Admin,System",
+          "Leaf": false,
+          "Children": [
+            {
+              "Text": "土建图申请",
+              "IconCls": "x-fa fa-cube",
+              "FuncCode": "Apply,Admin,System",
+              "Path": "sef.app.liftnext.project.Project",
+              "Leaf": true
+            },
+            {
+              "Text": "土建图设计",
+              "IconCls": "x-fa fa-cube",
+              "FuncCode": "Design,Admin,System",
+              "Path": "sef.app.liftnext.design.Design",
+              "Leaf": true
+            },
+            {
+              "Text": "土建图审核",
+              "IconCls": "x-fa fa-cube",
+              "FuncCode": "Audit,Admin,System",
+              "Path": "sef.app.liftnext.audit.Audit",
+              "Leaf": true
+            },
+            {
+              "Text": "土建图汇总",
+              "IconCls": "x-fa fa-cube",
+              "FuncCode": "Admin,System",
+              "Path": "sef.app.liftnext.projectitem.ProjectItem",
+              "Leaf": true
+            }
+          ]
+        },
+        {
+          "Text": "评审管理",
+          "IconCls": "x-fa fa-cube",
+          "FuncCode": "MultiDept,Business,Admin,System",
+          "Leaf": false,
+          "Children": [
+            {
+              "Text": "跨部门评审",
+              "IconCls": "x-fa fa-cube",
+              "FuncCode": "MultiDept,Admin,System",
+              "Path": "sef.app.liftnext.kbmreview.Review",
+              "Leaf": true
+            },
+            {
+              "Text": "商务评审",
+              "IconCls": "x-fa fa-cube",
+              "FuncCode": "Admin,System",
+              "Path": "sef.app.liftnext.swreview.Review",
+              "Leaf": true
+            }
+          ]
+        },
+        {
+          "Text": "块资源",
+          "IconCls": "x-fa fa-cube",
+          "FuncCode": "Admin,System",
+          "Path": "sef.app.liftnext.block.Block",
+          "Leaf": true
+        },
+        {
+          "Text": "梯型资源",
+          "IconCls": "x-fa fa-cube",
+          "FuncCode": "Admin,System",
+          "Path": "sef.app.liftnext.lift.Lift",
+          "Leaf": true
+        },
+        {
+          "Text": "账号管理",
+          "IconCls": "x-fa fa-cube",
+          "FuncCode": "Admin,System",
+          "Path": "sef.app.liftnext.account.Account",
+          "Leaf": true
+        },
+        {
+          "Text": "系统管理",
+          "Leaf": false,
+          "IconCls": "x-fa fa-cube",
+          "FuncCode": "System",
+          "Children": [
+            {
+              "Text": "客户管理",
+              "IconCls": "x-fa fa-cube",
+              "FuncCode": "System",
+              "Path": "sef.app.liftnext.system.customer.Customer",
+              "Leaf": true
+            },
+            {
+              "Text": "全局配置",
+              "IconCls": "x-fa fa-cube",
+              "Path": "sef.app.liftnext.system.global.GlobalParam",
+              "FuncCode": "System",
+              "Leaf": true
+            },
+            {
+              "Text": "服务配置",
+              "IconCls": "x-fa fa-cube",
+              "Path": "sef.app.liftnext.system.cad.CadConfig",
+              "FuncCode": "System",
+              "Leaf": true
+            },
+            {
+              "Text": "自动编号",
+              "IconCls": "x-fa fa-cube",
+              "Path": "sef.app.liftnext.system.autonumber.AutoNumber",
+              "FuncCode": "System",
+              "Leaf": true
+            },
+            {
+              "Text": "操作日志",
+              "IconCls": "x-fa fa-cube",
+              "Path": "sef.app.liftnext.system.log.Log",
+              "FuncCode": "System",
+              "Leaf": true
+            },
+            {
+              "Text": "系统消息",
+              "IconCls": "x-fa fa-cube",
+              "Path": "sef.app.liftnext.system.message.Message",
+              "FuncCode": "System",
+              "Leaf": true
+            },
+            {
+              "Text": "任务管理",
+              "IconCls": "x-fa fa-cube",
+              "Path": "sef.app.liftnext.system.task.DrawingTask",
+              "FuncCode": "System",
+              "Leaf": true
+            },
+            {
+              "Text": "块管理",
+              "IconCls": "x-fa fa-cube",
+              "Path": "sef.app.liftnext.system.block.Block",
+              "FuncCode": "System",
+              "Leaf": true
+            },
+            {
+              "Text": "参数管理",
+              "IconCls": "x-fa fa-cube",
+              "Path": "sef.app.liftnext.system.params.Params",
+              "FuncCode": "System",
+              "Leaf": true
+            },
+            {
+              "Text": "梯型管理",
+              "IconCls": "x-fa fa-cube",
+              "Path": "sef.app.liftnext.system.lift.Lift",
+              "FuncCode": "System",
+              "Leaf": true
+            }
+          ]
+        }
+      ]
+    }
+
+}

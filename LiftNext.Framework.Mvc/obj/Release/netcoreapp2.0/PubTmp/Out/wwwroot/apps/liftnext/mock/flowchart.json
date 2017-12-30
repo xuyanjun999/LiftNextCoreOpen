@@ -1,0 +1,31 @@
+{
+    "Success":true,
+    "Result":{
+        "Steps":[{
+            "DataID":1,
+            "Text":"开始",
+            "Type":"Complete"
+        },{
+            "DataID":2,
+            "Text":"执行",
+            "Type":"Doing"
+        },{
+            "DataID":3,
+            "Text":"审批",
+            "Type":"Default"
+        },{
+            "DataID":4,
+            "Text":"审核",
+            "Type":"Default"
+        },{
+            "DataID":5,
+            "Text":"完成",
+            "Type":"Default"
+        },{
+            "DataID":6,
+            "Text":"挂起",
+            "Type":"Default"
+        }],
+        "Connections":[[1,2],[2,3],[3,4],[4,5],[3,6],[3,5]]
+    }
+}

@@ -1,0 +1,374 @@
+{
+  "Layout": [
+    {
+      "Group": "主要参数",
+      "Items": [
+        {
+          "fieldLabel": "电梯型号",
+          "xtype": "sef-paramcombo",
+          "name": "ELEN",
+          "itemId": "ELEN",
+          "editable": false,
+          "allowBlank": false,
+          "changeData": true
+        },
+        {
+          "fieldLabel": "电梯类型",
+          "tooltip": "ELET",
+          "xtype": "sef-paramcombo",
+          "name": "ELET",
+          "changeData": true
+        },
+        {
+          "fieldLabel": "土建类型",
+          "xtype": "sef-paramcombo",
+          "name": "LT",
+          "changeData": true
+        },
+        {
+          "fieldLabel": "图纸编号(自动生成)",
+          "xtype": "textfield",
+          "name": "DRAWING",
+          "readOnly": "true"
+        },
+        {
+          "fieldLabel": "载重(kg)",
+          "xtype": "sef-paramcombo",
+          "name": "DL",
+          "changeData": true
+        },
+        {
+          "fieldLabel": "井道净宽(mm)",
+          "xtype": "numberfield",
+          "name": "HW",
+          "step": 0,
+          "changeData": true
+        },
+        {
+          "fieldLabel": "井道净深(mm)",
+          "xtype": "numberfield",
+          "name": "HD",
+          "step": 0,
+          "changeData": true
+        },
+        {
+          "fieldLabel": "速度(m/s)",
+          "xtype": "sef-paramcombo",
+          "name": "V",
+          "changeData": true
+        },
+        {
+          "fieldLabel": "门套类型",
+          "xtype": "sef-paramcombo",
+          "name": "LDFD",
+          "changeData": true
+        },
+        {
+          "fieldLabel": "轿厢入口",
+          "xtype": "sef-paramcombo",
+          "name": "ET",
+          "changeData": true
+        },
+        {
+          "fieldLabel": "对重安全钳",
+          "xtype": "sef-paramcombo",
+          "name": "CWTSAFT",
+          "changeData": true
+        },
+        {
+          "fieldLabel": "提升高度(mm)",
+          "xtype": "numberfield",
+          "name": "R",
+          "step": 0,
+          "changeData": true
+        },
+        {
+          "fieldLabel": "顶层高度(mm)",
+          "xtype": "numberfield",
+          "name": "K",
+          "step": 0,
+          "changeData": true
+        },
+        {
+          "fieldLabel": "底坑深度(mm)",
+          "xtype": "numberfield",
+          "name": "S",
+          "step": 0,
+          "changeData": true
+        },
+        {
+          "fieldLabel": "布局形式",
+          "xtype": "sef-paramcombo",
+          "name": "LAYOUTAR",
+          "changeData": true
+        },
+        {
+          "fieldLabel": "外召排布方式",
+          "xtype": "sef-paramcombo",
+          "name": "HBPAR",
+          "changeData": true
+        },
+        {
+          "fieldLabel": "外召排布方式",
+          "xtype": "sef-paramcombo",
+          "name": "HBPAR2",
+          "changeData": true
+        },
+        {
+          "fieldLabel": "是否跨部门评审",
+          "xtype": "sef-paramcombo",
+          "name": "NONNMTC",
+          "changeData": true
+        }
+      ]
+    },
+    {
+      "Group": "井道参数",
+      "Items": [
+        {
+          "fieldLabel": "对重布置方式",
+          "xtype": "sef-paramcombo",
+          "name": "CWTL",
+          "code": "RG_CWTL",
+          "changeData": true
+        },
+        {
+          "fieldLabel": "轿厢净宽(mm)",
+          "xtype": "numberfield",
+          "name": "CW",
+          "step": 0,
+          "changeData": true
+        },
+        {
+          "fieldLabel": "轿厢净深(mm)",
+          "xtype": "numberfield",
+          "name": "CD",
+          "step": 0,
+          "changeData": true
+        },
+        {
+          "fieldLabel": "吊心距(mm)",
+          "xtype": "numberfield",
+          "name": "C",
+          "step": 0,
+          "changeData": true
+        },
+        {
+          "fieldLabel": "轿厢导轨距(mm)",
+          "xtype": "numberfield",
+          "name": "CARDBG",
+          "step": 0,
+          "changeData": true
+        },
+        {
+          "fieldLabel": "轿厢净高(mm)",
+          "xtype": "sef-paramcombo",
+          "name": "CRH",
+          "changeData": true
+        },
+        {
+          "fieldLabel": "吊心至对重导轨中心的距离(mm)",
+          "xtype": "numberfield",
+          "name": "CTCR",
+          "step": 0,
+          "changeData": true
+        },
+        {
+          "fieldLabel": "井道类型",
+          "xtype": "sef-paramcombo",
+          "name": "WLT",
+          "changeData": true
+        },
+        {
+          "fieldLabel": "开门方式(前门)",
+          "xtype": "sef-paramcombo",
+          "name": "OPT",
+          "changeData": true
+        },
+        {
+          "fieldLabel": "开门宽度(mm)",
+          "xtype": "sef-paramcombo",
+          "name": "OP",
+          "changeData": true
+        },
+        {
+          "fieldLabel": "开门净高(mm)",
+          "xtype": "sef-paramcombo",
+          "name": "OPH",
+          "changeData": true
+        },
+        {
+          "fieldLabel": "门机类型",
+          "xtype": "sef-paramcombo",
+          "name": "OPERT",
+          "changeData": true
+        },
+        {
+          "fieldLabel": "轿厢门偏(mm)",
+          "xtype": "numberfield",
+          "name": "DROFT",
+          "step": 0,
+          "changeData": true
+        },
+        {
+          "fieldLabel": "厅门深度(mm)",
+          "xtype": "sef-paramcombo",
+          "name": "LSILLD",
+          "changeData": true
+        },
+        {
+          "fieldLabel": "左门垛尺寸(mm)",
+          "xtype": "numberfield",
+          "name": "DPL",
+          "changeData": true
+        },
+        {
+          "fieldLabel": "右门垛尺寸(mm)",
+          "xtype": "numberfield",
+          "name": "DPR",
+          "changeData": true
+        },
+        {
+          "fieldLabel": "主操纵箱位置",
+          "xtype": "sef-paramcombo",
+          "name": "COPL",
+          "changeData": true
+        },
+        {
+          "fieldLabel": "副操纵箱",
+          "xtype": "sef-paramcombo",
+          "name": "CBT",
+          "changeData": true
+        },
+        {
+          "fieldLabel": "副操纵箱位置",
+          "xtype": "sef-paramcombo",
+          "name": "CBTL",
+          "changeData": true
+        },
+        {
+          "fieldLabel": "残疾人操纵箱",
+          "xtype": "sef-paramcombo",
+          "name": "HCOP",
+          "changeData": true
+        },
+        {
+          "fieldLabel": "残疾人操纵箱位置",
+          "xtype": "sef-paramcombo",
+          "name": "HCOPL",
+          "changeData": true
+        },
+        {
+          "fieldLabel": "轿厢导轨支架间距(mm)",
+          "xtype": "sef-paramcombo",
+          "name": "DBGRB1",
+          "changeData": true
+        },
+        {
+          "fieldLabel": "墙厚(mm)",
+          "xtype": "numberfield",
+          "name": "WT",
+          "changeData": true
+        },
+        {
+          "fieldLabel": "井道凸出物位置",
+          "xtype": "sef-paramcombo",
+          "name": "COL",
+          "changeData": true
+        }
+      ]
+    },
+    {
+      "Group": "机房参数",
+      "Items": [
+        {
+          "fieldLabel": "机房类型",
+          "xtype": "sef-paramcombo",
+          "name": "MRT",
+          "changeData": true
+        },
+        {
+          "fieldLabel": "曳引轮布置方式",
+          "xtype": "sef-paramcombo",
+          "name": "DEFT",
+          "changeData": true
+        },
+        {
+          "fieldLabel": "机房门位置",
+          "xtype": "sef-paramcombo",
+          "name": "MRDL",
+          "changeData": true
+        },
+        {
+          "fieldLabel": "控制柜型号",
+          "xtype": "sef-paramcombo",
+          "name": "CCM",
+          "changeData": true
+        },
+        {
+          "fieldLabel": "机房净宽",
+          "xtype": "numberfield",
+          "name": "MRW",
+          "changeData": true
+        },
+        {
+          "fieldLabel": "机房净深",
+          "xtype": "numberfield",
+          "name": "MRD",
+          "changeData": true
+        }
+      ]
+    },
+    {
+      "Group": "楼层参数",
+      "Items": [
+        {
+          "fieldLabel": "楼层数(1~50)",
+          "xtype": "numberfield",
+          "allowDecimals": false,
+          "step": 0,
+          "name": "NF",
+          "itemId": "NF",
+          "value": 1
+        },
+        {
+          "fieldLabel": "起始楼层",
+          "xtype": "numberfield",
+          "step": 0,
+          "allowDecimals": false,
+          "name": "BFL",
+          "itemId": "BFL",
+          "value": -1
+        },
+        {
+          "fieldLabel": "楼层间距(默认3000mm)",
+          "xtype": "numberfield",
+          "step": 0,
+          "name": "DBFLR",
+          "itemId": "DBFLR",
+          "value": 3000
+        },
+        {
+          "fieldLabel": "前后门开门",
+          "xtype": "sef-paramcombo",
+          "name": "FRD",
+          "itemId": "FRD"
+        },
+        {
+          "xtype": "sef-floorfield",
+          "columnWidth": 1,
+          "changeData": true
+        }        
+      ]
+    },
+    {
+      "Group": "评审流程",
+      "Items": [
+        {
+          "xtype": "sef-reviewform",
+          "columnWidth": 1
+        }
+      ]
+    }
+  ]
+}

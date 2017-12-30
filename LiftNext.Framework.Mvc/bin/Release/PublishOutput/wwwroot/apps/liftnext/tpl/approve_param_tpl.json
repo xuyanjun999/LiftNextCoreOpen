@@ -1,0 +1,99 @@
+{
+  "Layout": [
+    {
+      "Group": "主要参数",
+      "Items": [
+        {
+          "fieldLabel": "电梯型号",
+          "xtype": "sef-paramcombo",
+          "name": "ELEN",
+          "itemId": "ELEN",
+          "editable": false,
+          "allowBlank": false,
+          "changeData": true
+        },
+        {
+          "fieldLabel": "电梯类型",
+          "tooltip": "ELET",
+          "xtype": "sef-paramcombo",
+          "name": "ELET",
+          "changeData": true
+        },
+        {
+          "fieldLabel": "土建类型",
+          "xtype": "sef-paramcombo",
+          "name": "LT",
+          "changeData": true
+        },
+        {
+          "fieldLabel": "图号(自动生成)",
+          "xtype": "textfield",
+          "name": "DRAWING",
+          "readOnly": "true"
+        },
+        {
+          "fieldLabel": "额定载重(kg)",
+          "xtype": "sef-paramcombo",
+          "name": "DL",
+          "changeData": true
+        },
+        {
+          "fieldLabel": "额定速度(m/s)",
+          "xtype": "sef-paramcombo",
+          "name": "V",
+          "changeData": true
+        },
+        {
+          "fieldLabel": "井道净宽(mm)",
+          "xtype": "numberfield",
+          "name": "HW",
+          "step": 0,
+          "changeData": true
+        },
+        {
+          "fieldLabel": "井道净深(mm)",
+          "xtype": "numberfield",
+          "name": "HD",
+          "step": 0,
+          "changeData": true
+        },
+        {
+          "fieldLabel": "提升高度(mm)",
+          "xtype": "numberfield",
+          "name": "R",
+          "step": 0,
+          "changeData": true
+        },
+        {
+          "fieldLabel": "顶层高度(mm)",
+          "xtype": "numberfield",
+          "name": "K",
+          "step": 0,
+          "changeData": true
+        },
+        {
+          "fieldLabel": "底坑深度(mm)",
+          "xtype": "numberfield",
+          "name": "S",
+          "step": 0,
+          "changeData": true
+        },
+        {
+          "fieldLabel": "轿厢入口",
+          "xtype": "sef-paramcombo",
+          "name": "ET",
+          "changeData": true
+        }
+      ]
+    },
+    {
+      "Group": "评审流程",
+      "Items": [
+        {
+          "xtype": "sef-reviewform",
+          "columnWidth": 1
+        }
+      ]
+    }
+  ]
+}

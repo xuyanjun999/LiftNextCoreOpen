@@ -1,0 +1,12 @@
+{
+    "Success":true,
+    "Result":{
+        "Menus":[{
+            "Text":"NewCode",
+            "Data":"NewCode"
+        },{
+            "Text":"L9",
+            "Data":"L9"
+        }]
+    }
+}

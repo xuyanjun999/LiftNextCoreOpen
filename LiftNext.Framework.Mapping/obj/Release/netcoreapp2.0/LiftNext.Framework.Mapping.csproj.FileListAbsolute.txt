@@ -1,0 +1,15 @@
+C:\SGProject\LiftNextCore\LiftNext.Framework.Mapping\bin\Release\netcoreapp2.0\LiftNext.Framework.Mapping.deps.json
+C:\SGProject\LiftNextCore\LiftNext.Framework.Mapping\bin\Release\netcoreapp2.0\LiftNext.Framework.Mapping.dll
+C:\SGProject\LiftNextCore\LiftNext.Framework.Mapping\bin\Release\netcoreapp2.0\LiftNext.Framework.Mapping.pdb
+C:\SGProject\LiftNextCore\LiftNext.Framework.Mapping\bin\Release\netcoreapp2.0\LiftNext.Framework.Code.dll
+C:\SGProject\LiftNextCore\LiftNext.Framework.Mapping\bin\Release\netcoreapp2.0\LiftNext.Framework.Data.dll
+C:\SGProject\LiftNextCore\LiftNext.Framework.Mapping\bin\Release\netcoreapp2.0\LiftNext.Framework.Domain.dll
+C:\SGProject\LiftNextCore\LiftNext.Framework.Mapping\bin\Release\netcoreapp2.0\LiftNext.Framework.Domain.pdb
+C:\SGProject\LiftNextCore\LiftNext.Framework.Mapping\bin\Release\netcoreapp2.0\LiftNext.Framework.Code.pdb
+C:\SGProject\LiftNextCore\LiftNext.Framework.Mapping\bin\Release\netcoreapp2.0\LiftNext.Framework.Data.pdb
+C:\SGProject\LiftNextCore\LiftNext.Framework.Mapping\obj\Release\netcoreapp2.0\LiftNext.Framework.Mapping.csprojResolveAssemblyReference.cache
+C:\SGProject\LiftNextCore\LiftNext.Framework.Mapping\obj\Release\netcoreapp2.0\LiftNext.Framework.Mapping.csproj.CoreCompileInputs.cache
+C:\SGProject\LiftNextCore\LiftNext.Framework.Mapping\obj\Release\netcoreapp2.0\LiftNext.Framework.Mapping.AssemblyInfoInputs.cache
+C:\SGProject\LiftNextCore\LiftNext.Framework.Mapping\obj\Release\netcoreapp2.0\LiftNext.Framework.Mapping.AssemblyInfo.cs
+C:\SGProject\LiftNextCore\LiftNext.Framework.Mapping\obj\Release\netcoreapp2.0\LiftNext.Framework.Mapping.dll
+C:\SGProject\LiftNextCore\LiftNext.Framework.Mapping\obj\Release\netcoreapp2.0\LiftNext.Framework.Mapping.pdb

@@ -1,0 +1,13 @@
+C:\SGProject\LiftNextCore\LiftNext.Framework.Domain\bin\Release\netcoreapp2.0\LiftNext.Framework.Domain.deps.json
+C:\SGProject\LiftNextCore\LiftNext.Framework.Domain\bin\Release\netcoreapp2.0\LiftNext.Framework.Domain.dll
+C:\SGProject\LiftNextCore\LiftNext.Framework.Domain\bin\Release\netcoreapp2.0\LiftNext.Framework.Domain.pdb
+C:\SGProject\LiftNextCore\LiftNext.Framework.Domain\bin\Release\netcoreapp2.0\LiftNext.Framework.Code.dll
+C:\SGProject\LiftNextCore\LiftNext.Framework.Domain\bin\Release\netcoreapp2.0\LiftNext.Framework.Data.dll
+C:\SGProject\LiftNextCore\LiftNext.Framework.Domain\bin\Release\netcoreapp2.0\LiftNext.Framework.Code.pdb
+C:\SGProject\LiftNextCore\LiftNext.Framework.Domain\bin\Release\netcoreapp2.0\LiftNext.Framework.Data.pdb
+C:\SGProject\LiftNextCore\LiftNext.Framework.Domain\obj\Release\netcoreapp2.0\LiftNext.Framework.Domain.csprojResolveAssemblyReference.cache
+C:\SGProject\LiftNextCore\LiftNext.Framework.Domain\obj\Release\netcoreapp2.0\LiftNext.Framework.Domain.csproj.CoreCompileInputs.cache
+C:\SGProject\LiftNextCore\LiftNext.Framework.Domain\obj\Release\netcoreapp2.0\LiftNext.Framework.Domain.AssemblyInfoInputs.cache
+C:\SGProject\LiftNextCore\LiftNext.Framework.Domain\obj\Release\netcoreapp2.0\LiftNext.Framework.Domain.AssemblyInfo.cs
+C:\SGProject\LiftNextCore\LiftNext.Framework.Domain\obj\Release\netcoreapp2.0\LiftNext.Framework.Domain.dll
+C:\SGProject\LiftNextCore\LiftNext.Framework.Domain\obj\Release\netcoreapp2.0\LiftNext.Framework.Domain.pdb
