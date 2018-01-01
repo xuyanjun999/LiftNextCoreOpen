@@ -55,7 +55,7 @@ Ext.define('abp.view.main.Main', {
                 items: [{
                     xtype: 'mainlist'
                 }, {
-                    xtype: 'mainform1'
+                    xtype: 'mainform'
 
                 }]
             }]

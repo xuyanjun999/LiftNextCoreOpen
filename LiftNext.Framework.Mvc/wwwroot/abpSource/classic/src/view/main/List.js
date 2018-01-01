@@ -10,7 +10,8 @@ Ext.define('abp.view.main.List', {
 
     requires: [
         'abp.store.Personnel',
-        'abp.component.list.GridList'
+        'abp.component.list.GridList',
+        'abp.model.sys.Menu'
     ],
 
     tree:{
@@ -67,20 +68,26 @@ Ext.define('abp.view.main.List', {
     list: {
         xtype: 'gridlist',
         store: {
-            type: 'personnel'
+            type: 'abpstore',
+            model:'abp.model.sys.Menu',
+            api:'/menu'
         },
-        columns: [{
+        columns111: [{
                 text: 'Name',
-                dataIndex: 'name'
+                dataIndex: 'Name'
             },
             {
-                text: 'Email',
-                dataIndex: 'email',
+                text: 'Code',
+                dataIndex: 'Code',
                 flex: 1
             },
             {
-                text: 'Phone',
-                dataIndex: 'phone',
+                text: 'Des',
+                dataIndex: 'Des',
+                flex: 1
+            },{
+                text: 'Url',
+                dataIndex: 'Url',
                 flex: 1
             }
         ],

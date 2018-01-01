@@ -1,11 +1,11 @@
-Ext.define('abp.component.list.GridList',{
-    extend:'Ext.grid.Panel',
-    xtype:'gridlist',
+Ext.define('abp.component.list.GridList', {
+    extend: 'Ext.grid.Panel',
+    xtype: 'gridlist',
     requires: [
         'abp.component.list.GridListCtl',
         'Ext.grid.Panel'
     ],
-    controller:'gridlistctl',
+    controller: 'gridlistctl',
     config: {
         listPage: null,
         enableRowEdit: false,
@@ -17,31 +17,31 @@ Ext.define('abp.component.list.GridList',{
     makePagingBar: function () {
         return {
             xtype: 'pagingtoolbar',
-            style:'padding:3px 0',
+            style: 'padding:3px 0',
             displayInfo: true,
-            items:[{
-                xtype:'combo',
-                store:{
-                    fields:['pageText','pageSize'],
-                    data:[
-                        {pageText:'10/page',pageSize:10},
-                        {pageText:'20/page',pageSize:20},
-                        {pageText:'50/page',pageSize:50},
-                        {pageText:'100/page',pageSize:100},
+            items: [{
+                xtype: 'combo',
+                store: {
+                    fields: ['pageText', 'pageSize'],
+                    data: [
+                        { pageText: '10/page', pageSize: 10 },
+                        { pageText: '20/page', pageSize: 20 },
+                        { pageText: '50/page', pageSize: 50 },
+                        { pageText: '100/page', pageSize: 100 },
                     ]
                 },
-                displayField:'pageText',
-                valueField:'pageSize',
-                value:10,
-                editable:false,
-                style:'width:100px;margin-left:10px;',
+                displayField: 'pageText',
+                valueField: 'pageSize',
+                value: 10,
+                editable: false,
+                style: 'width:100px;margin-left:10px;',
             }]
         };
     },
 
     makePlugins: function () {
         var me = this;
-        var plugins = me.plugins||[];
+        var plugins = me.plugins || [];
         if (this.enableRowEdit === true) {
             plugins.push({
                 ptype: 'enableRowEdit',
@@ -58,25 +58,25 @@ Ext.define('abp.component.list.GridList',{
             });
         }
 
-      return plugins;
+        return plugins;
     },
 
     makeTBar: function () {
-       
+
         var me = this;
         return me.tbar;
         if (!me.tbar) me.tbar = [];
         me.tbar = me.tbar.map(function (item) {
             var r = item;
             if (Ext.isString(item)) {
-               // r = xf.utils.getActionButton(item);
+                // r = xf.utils.getActionButton(item);
             }
             return r;
         });
         me.tbar.push("->");
         me.tbar.push({
             xtype: 'textfield',
-            itemId:'gridsearchtext',
+            itemId: 'gridsearchtext',
             emptyText: '输入条件进行快捷搜索',
             //triggers: {
             //    search: {
@@ -122,7 +122,7 @@ Ext.define('abp.component.list.GridList',{
             plugins: this.makePlugins(),
             tbar: this.makeTBar(),
             bbar: this.makePagingBar(),
-            //columns: this.makeColumn()
+            columns: this.makeColumns()
         };
 
 
@@ -137,8 +137,10 @@ Ext.define('abp.component.list.GridList',{
         return gridConfig;
     },
 
-    makeColumn: function () {
+    makeColumns: function () {
         var me = this;
+        var columns = me.columns;
+        
         var model = null;
 
         if (me.model) model = me.model;
@@ -155,16 +157,16 @@ Ext.define('abp.component.list.GridList',{
 
         var fields = modelInstance.getFields();
 
-        if (!me.columns && !me.col) {
+        if (!columns) {
 
-            var columns = fields.map(function (item) {
+             columns = fields.map(function (item) {
                 return {
                     dataIndex: item.name,
-                    text: item.text,
+                    text: item.text||item.name,
                     hidden: item.name === "ID",
                     formatter: item.formatter,
                     renderer: item.renderer,
-                    width: item.width||100,
+                    width: item.width || 150,
                     filter: {
                         type: 'string'
                     }
@@ -209,7 +211,7 @@ Ext.define('abp.component.list.GridList',{
         Ext.apply(this, this.makeGrid());
 
         this.callParent(arguments);
-        
+
         /*
         var store = me.getStore();
 

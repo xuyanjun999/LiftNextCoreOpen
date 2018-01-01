@@ -1,2 +1,2 @@
 // @tag full-page
-// @require C:\SGProject\LiftNextCoreOpen\LiftNext.Framework.Mvc\wwwroot\abp\app.js
+// @require /Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc/wwwroot/abpSource/app.js

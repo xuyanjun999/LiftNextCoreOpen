@@ -1,5 +1,5 @@
 $app-name:  dynamic( 'abp' );
-$image-search-path: 'C:/SGProject/LiftNextCoreOpen/LiftNext.Framework.Mvc/wwwroot/abp/build/development/abp/classic/resources';
+$image-search-path: '/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc/wwwroot/abpSource/build/development/abp/classic/resources';
 $theme-name:  dynamic( 'abp-theme' );
 $include-ext-abstractcomponent: dynamic(true);;
 $include-ext-abstractcontainer: dynamic(true);;
@@ -918,6 +918,10 @@ $include-abp-component-page-formpage: dynamic(true);;
 $include-abp-component-page-formpagectl: dynamic(true);;
 $include-abp-component-page-listpage: dynamic(true);;
 $include-abp-component-page-listpagectl: dynamic(true);;
+$include-abp-data-jsonwriter: dynamic(true);;
+$include-abp-data-proxy: dynamic(true);;
+$include-abp-data-store: dynamic(true);;
+$include-abp-model-sys-menu: dynamic(true);;
 $include-abp-store-personnel: dynamic(true);;
 $include-abp-util-abputil: dynamic(true);;
 $include-abp-util-message: dynamic(true);;
