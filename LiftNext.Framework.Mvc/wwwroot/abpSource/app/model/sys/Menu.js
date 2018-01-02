@@ -1,0 +1,17 @@
+Ext.define('abp.model.sys.Menu',{
+    extend:'Ext.data.Model',
+    fields:[{
+        name:'ID',
+        type:'int'
+    },{
+        name:'Name',
+        type:'string'
+    },{
+        name:'Code'
+    },{
+        name:'Des'
+    },{
+        name:'Url'
+    }],
+    idProperty:'ID'
+});
