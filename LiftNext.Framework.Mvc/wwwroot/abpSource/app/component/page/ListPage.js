@@ -15,6 +15,7 @@ Ext.define('abp.component.page.ListPage', {
         advSearch: null, //高级查询
     },
     initComponent: function () {
+        
         var me = this;
         var tree = me.tree;
         var list = me.list;

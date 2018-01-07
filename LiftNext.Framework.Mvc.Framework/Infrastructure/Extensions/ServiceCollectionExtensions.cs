@@ -178,6 +178,7 @@ namespace LiftNext.Framework.Mvc.Framework.Infrastructure.Extensions
         public static IMvcBuilder AddEapMvc(this IServiceCollection services)
         {
 
+            
             services.AddCors(options =>
             {
                 options.AddPolicy("AllowAnyOrigin",
@@ -191,12 +192,14 @@ namespace LiftNext.Framework.Mvc.Framework.Infrastructure.Extensions
                 options.Filters.Add(new CorsAuthorizationFilterFactory("AllowAnyOrigin"));
             });
 
+
             //add basic MVC feature
             var mvcBuilder = services.AddMvc(opt =>
             {
-                opt.Filters.Add(typeof(MyExceptionFilter));
-                opt.Filters.Add(typeof(LoginFilter));
+              //  opt.Filters.Add(typeof(MyExceptionFilter));
+               // opt.Filters.Add(typeof(LoginFilter));
             });
+            
 
             mvcBuilder.AddJsonOptions(opt =>
             {

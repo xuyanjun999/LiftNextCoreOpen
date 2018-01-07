@@ -1,9 +1,10 @@
-Ext.define('abp.util.AbpUtil',{
+Ext.define('abp.util.AbpUtil', {
     ajax: function (opt) {
         var _success = opt.success;
         var _failure = opy.failure
         delete opt.success;
         delete opt.failure;
+        opt.url = "http://localhost:5000" + opt.url;
         Ext.apply(opt, {
             success: function (response, opts) {
                 var obj = Ext.decode(response.responseText);
@@ -16,6 +17,6 @@ Ext.define('abp.util.AbpUtil',{
         Ext.Ajax.request(opt);
     },
 
-},function(cls){
-    if(!abp.util)abp.util=new cls();
+}, function (cls) {
+    if (!abp.util) abp.util = new cls();
 });

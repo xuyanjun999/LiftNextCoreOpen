@@ -4,13 +4,29 @@ Ext.define('abp.component.form.AbpFormCtl',{
     control:{
           'button[action]':{
             click:'onActionButtonClick',
-        },
-        '#':{
-            'switchto':'onSwitchTo'
         }
     },
     onSwitchTo:function(record){
         console.log('onSwitchTo');
+    },
+
+    getHashObj: function () {
+        var me = this;
+        var view = me.getView();
+        var hashObj = view.formPage.appPage.hashObj;
+        return hashObj;
+    },
+    onback_excute: function () {
+        debugger
+        var me = this;
+        var hashObj = me.getHashObj();
+        var hashJson = Ext.apply(hashObj, {
+            viewName: 'list'
+        });
+
+        this.redirectTo(Ext.Object.toQueryString(hashJson));
+        //abp.msg.success('success');
+        //this.getView().fireEvent('switchPage',1,'abc');
     },
 
     onActionButtonClick:function(actionBtn){
@@ -137,10 +153,5 @@ Ext.define('abp.component.form.AbpFormCtl',{
             }
         });
         view.mask('正在保存中...');
-    },
-
-    onback_excute:function(){
-        console.log('back',this);
-        this.getView().fireEvent('switchPage',0);
     }
 });

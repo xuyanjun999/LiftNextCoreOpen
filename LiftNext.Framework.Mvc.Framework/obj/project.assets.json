@@ -13735,46 +13735,41 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\xuyanjun\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "/Users/xuyanjun/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\SGProject\\LiftNextCoreOpen\\LiftNext.Framework.Mvc.Framework\\LiftNext.Framework.Mvc.Framework.csproj",
+      "projectUniqueName": "/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc.Framework/LiftNext.Framework.Mvc.Framework.csproj",
       "projectName": "LiftNext.Framework.Mvc.Framework",
-      "projectPath": "C:\\SGProject\\LiftNextCoreOpen\\LiftNext.Framework.Mvc.Framework\\LiftNext.Framework.Mvc.Framework.csproj",
-      "packagesPath": "C:\\Users\\xuyanjun\\.nuget\\packages\\",
-      "outputPath": "C:\\SGProject\\LiftNextCoreOpen\\LiftNext.Framework.Mvc.Framework\\obj\\",
+      "projectPath": "/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc.Framework/LiftNext.Framework.Mvc.Framework.csproj",
+      "packagesPath": "/Users/xuyanjun/.nuget/packages/",
+      "outputPath": "/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc.Framework/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\xuyanjun\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/xuyanjun/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\SGProject\\LiftNextCoreOpen\\LiftNext.Framework.Domain\\LiftNext.Framework.Domain.csproj": {
-              "projectPath": "C:\\SGProject\\LiftNextCoreOpen\\LiftNext.Framework.Domain\\LiftNext.Framework.Domain.csproj"
+            "/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Code/LiftNext.Framework.Code.csproj": {
+              "projectPath": "/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Code/LiftNext.Framework.Code.csproj"
             },
-            "C:\\SGProject\\LiftNextCoreOpen\\LiftNext.Framework.Code\\LiftNext.Framework.Code.csproj": {
-              "projectPath": "C:\\SGProject\\LiftNextCoreOpen\\LiftNext.Framework.Code\\LiftNext.Framework.Code.csproj"
+            "/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Data/LiftNext.Framework.Data.csproj": {
+              "projectPath": "/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Data/LiftNext.Framework.Data.csproj"
             },
-            "C:\\SGProject\\LiftNextCoreOpen\\LiftNext.Framework.Data\\LiftNext.Framework.Data.csproj": {
-              "projectPath": "C:\\SGProject\\LiftNextCoreOpen\\LiftNext.Framework.Data\\LiftNext.Framework.Data.csproj"
+            "/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Domain/LiftNext.Framework.Domain.csproj": {
+              "projectPath": "/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Domain/LiftNext.Framework.Domain.csproj"
             }
           }
         }

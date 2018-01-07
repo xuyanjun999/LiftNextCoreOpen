@@ -1,0 +1,65 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc.Framework/LiftNext.Framework.Mvc.Framework.csproj",
+    "projectName": "LiftNext.Framework.Mvc.Framework",
+    "projectPath": "/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc.Framework/LiftNext.Framework.Mvc.Framework.csproj",
+    "outputPath": "/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc.Framework/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Code/LiftNext.Framework.Code.csproj": {
+            "projectPath": "/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Code/LiftNext.Framework.Code.csproj"
+          },
+          "/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Data/LiftNext.Framework.Data.csproj": {
+            "projectPath": "/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Data/LiftNext.Framework.Data.csproj"
+          },
+          "/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Domain/LiftNext.Framework.Domain.csproj": {
+            "projectPath": "/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Domain/LiftNext.Framework.Domain.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.AspNetCore.All": {
+          "target": "Package",
+          "version": "[2.0.0, )"
+        },
+        "Microsoft.AspNetCore.Cors": {
+          "target": "Package",
+          "version": "[2.0.1, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        },
+        "NLog.Web.AspNetCore": {
+          "target": "Package",
+          "version": "[4.5.0-beta04, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

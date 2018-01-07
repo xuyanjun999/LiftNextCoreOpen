@@ -18,6 +18,7 @@ namespace LiftNext.Framework.Mvc.Controllers
 
         public ActionResult Login()
         {
+            //
             return View();
         }
 

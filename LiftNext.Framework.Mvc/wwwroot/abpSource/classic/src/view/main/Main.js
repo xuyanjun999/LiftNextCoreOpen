@@ -49,6 +49,7 @@ Ext.define('abp.view.main.Main', {
         }, {
             region: 'center',
             xtype: 'tabpanel',
+            reference:'maintab',
             items: [{
                 xtype: 'apppage',
                 title:'heihei',

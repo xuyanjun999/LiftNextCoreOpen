@@ -1,0 +1,63 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Data/LiftNext.Framework.Data.csproj",
+    "projectName": "LiftNext.Framework.Data",
+    "projectPath": "/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Data/LiftNext.Framework.Data.csproj",
+    "outputPath": "/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Data/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Code/LiftNext.Framework.Code.csproj": {
+            "projectPath": "/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Code/LiftNext.Framework.Code.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.EntityFrameworkCore": {
+          "target": "Package",
+          "version": "[2.0.1, )"
+        },
+        "Microsoft.EntityFrameworkCore.Relational": {
+          "target": "Package",
+          "version": "[2.0.1, )"
+        },
+        "Microsoft.EntityFrameworkCore.SqlServer": {
+          "target": "Package",
+          "version": "[2.0.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        },
+        "Pomelo.EntityFrameworkCore.MySql": {
+          "target": "Package",
+          "version": "[2.0.1, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

@@ -1,0 +1,1387 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0c28db9f-0e12-4fa6-a645-18934dfc28c4" name="Default" comment="1221">
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.LiftNextCore/.idea/contentModel.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.LiftNextCore/.idea/indexLayout.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.LiftNextCore/.idea/modules.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.LiftNextCore/.idea/vcs.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/.idea.LiftNextCore/riderModule.iml" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Code/bin/Debug/netcoreapp2.0/LiftNext.Framework.Code.dll" afterPath="$PROJECT_DIR$/LiftNext.Framework.Code/bin/Debug/netcoreapp2.0/LiftNext.Framework.Code.dll" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Code/bin/Debug/netcoreapp2.0/LiftNext.Framework.Code.pdb" afterPath="$PROJECT_DIR$/LiftNext.Framework.Code/bin/Debug/netcoreapp2.0/LiftNext.Framework.Code.pdb" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Code/obj/Debug/netcoreapp2.0/LiftNext.Framework.Code.AssemblyInfo.cs" afterPath="$PROJECT_DIR$/LiftNext.Framework.Code/obj/Debug/netcoreapp2.0/LiftNext.Framework.Code.AssemblyInfo.cs" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Code/obj/Debug/netcoreapp2.0/LiftNext.Framework.Code.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/LiftNext.Framework.Code/obj/Debug/netcoreapp2.0/LiftNext.Framework.Code.csproj.CoreCompileInputs.cache" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Code/obj/Debug/netcoreapp2.0/LiftNext.Framework.Code.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/LiftNext.Framework.Code/obj/Debug/netcoreapp2.0/LiftNext.Framework.Code.csproj.FileListAbsolute.txt" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Code/obj/Debug/netcoreapp2.0/LiftNext.Framework.Code.csprojResolveAssemblyReference.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Code/obj/Debug/netcoreapp2.0/LiftNext.Framework.Code.dll" afterPath="$PROJECT_DIR$/LiftNext.Framework.Code/obj/Debug/netcoreapp2.0/LiftNext.Framework.Code.dll" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Code/obj/Debug/netcoreapp2.0/LiftNext.Framework.Code.pdb" afterPath="$PROJECT_DIR$/LiftNext.Framework.Code/obj/Debug/netcoreapp2.0/LiftNext.Framework.Code.pdb" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Code/obj/LiftNext.Framework.Code.csproj.nuget.cache" afterPath="$PROJECT_DIR$/LiftNext.Framework.Code/obj/LiftNext.Framework.Code.csproj.nuget.cache" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Code/obj/LiftNext.Framework.Code.csproj.nuget.g.props" afterPath="$PROJECT_DIR$/LiftNext.Framework.Code/obj/LiftNext.Framework.Code.csproj.nuget.g.props" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Code/obj/LiftNext.Framework.Code.csproj.nuget.g.targets" afterPath="$PROJECT_DIR$/LiftNext.Framework.Code/obj/LiftNext.Framework.Code.csproj.nuget.g.targets" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Code/obj/project.assets.json" afterPath="$PROJECT_DIR$/LiftNext.Framework.Code/obj/project.assets.json" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Data/bin/Debug/netcoreapp2.0/LiftNext.Framework.Code.dll" afterPath="$PROJECT_DIR$/LiftNext.Framework.Data/bin/Debug/netcoreapp2.0/LiftNext.Framework.Code.dll" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Data/bin/Debug/netcoreapp2.0/LiftNext.Framework.Code.pdb" afterPath="$PROJECT_DIR$/LiftNext.Framework.Data/bin/Debug/netcoreapp2.0/LiftNext.Framework.Code.pdb" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Data/bin/Debug/netcoreapp2.0/LiftNext.Framework.Data.dll" afterPath="$PROJECT_DIR$/LiftNext.Framework.Data/bin/Debug/netcoreapp2.0/LiftNext.Framework.Data.dll" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Data/bin/Debug/netcoreapp2.0/LiftNext.Framework.Data.pdb" afterPath="$PROJECT_DIR$/LiftNext.Framework.Data/bin/Debug/netcoreapp2.0/LiftNext.Framework.Data.pdb" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Data/obj/Debug/netcoreapp2.0/LiftNext.Framework.Data.AssemblyInfo.cs" afterPath="$PROJECT_DIR$/LiftNext.Framework.Data/obj/Debug/netcoreapp2.0/LiftNext.Framework.Data.AssemblyInfo.cs" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Data/obj/Debug/netcoreapp2.0/LiftNext.Framework.Data.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/LiftNext.Framework.Data/obj/Debug/netcoreapp2.0/LiftNext.Framework.Data.csproj.CoreCompileInputs.cache" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Data/obj/Debug/netcoreapp2.0/LiftNext.Framework.Data.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/LiftNext.Framework.Data/obj/Debug/netcoreapp2.0/LiftNext.Framework.Data.csproj.FileListAbsolute.txt" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Data/obj/Debug/netcoreapp2.0/LiftNext.Framework.Data.csprojResolveAssemblyReference.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Data/obj/Debug/netcoreapp2.0/LiftNext.Framework.Data.dll" afterPath="$PROJECT_DIR$/LiftNext.Framework.Data/obj/Debug/netcoreapp2.0/LiftNext.Framework.Data.dll" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Data/obj/Debug/netcoreapp2.0/LiftNext.Framework.Data.pdb" afterPath="$PROJECT_DIR$/LiftNext.Framework.Data/obj/Debug/netcoreapp2.0/LiftNext.Framework.Data.pdb" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Data/obj/LiftNext.Framework.Data.csproj.nuget.cache" afterPath="$PROJECT_DIR$/LiftNext.Framework.Data/obj/LiftNext.Framework.Data.csproj.nuget.cache" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Data/obj/LiftNext.Framework.Data.csproj.nuget.g.props" afterPath="$PROJECT_DIR$/LiftNext.Framework.Data/obj/LiftNext.Framework.Data.csproj.nuget.g.props" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Data/obj/LiftNext.Framework.Data.csproj.nuget.g.targets" afterPath="$PROJECT_DIR$/LiftNext.Framework.Data/obj/LiftNext.Framework.Data.csproj.nuget.g.targets" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Data/obj/project.assets.json" afterPath="$PROJECT_DIR$/LiftNext.Framework.Data/obj/project.assets.json" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Domain/bin/Debug/netcoreapp2.0/LiftNext.Framework.Code.dll" afterPath="$PROJECT_DIR$/LiftNext.Framework.Domain/bin/Debug/netcoreapp2.0/LiftNext.Framework.Code.dll" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Domain/bin/Debug/netcoreapp2.0/LiftNext.Framework.Code.pdb" afterPath="$PROJECT_DIR$/LiftNext.Framework.Domain/bin/Debug/netcoreapp2.0/LiftNext.Framework.Code.pdb" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Domain/bin/Debug/netcoreapp2.0/LiftNext.Framework.Data.dll" afterPath="$PROJECT_DIR$/LiftNext.Framework.Domain/bin/Debug/netcoreapp2.0/LiftNext.Framework.Data.dll" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Domain/bin/Debug/netcoreapp2.0/LiftNext.Framework.Data.pdb" afterPath="$PROJECT_DIR$/LiftNext.Framework.Domain/bin/Debug/netcoreapp2.0/LiftNext.Framework.Data.pdb" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Domain/bin/Debug/netcoreapp2.0/LiftNext.Framework.Domain.dll" afterPath="$PROJECT_DIR$/LiftNext.Framework.Domain/bin/Debug/netcoreapp2.0/LiftNext.Framework.Domain.dll" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Domain/bin/Debug/netcoreapp2.0/LiftNext.Framework.Domain.pdb" afterPath="$PROJECT_DIR$/LiftNext.Framework.Domain/bin/Debug/netcoreapp2.0/LiftNext.Framework.Domain.pdb" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Domain/obj/Debug/netcoreapp2.0/LiftNext.Framework.Domain.AssemblyInfo.cs" afterPath="$PROJECT_DIR$/LiftNext.Framework.Domain/obj/Debug/netcoreapp2.0/LiftNext.Framework.Domain.AssemblyInfo.cs" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Domain/obj/Debug/netcoreapp2.0/LiftNext.Framework.Domain.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/LiftNext.Framework.Domain/obj/Debug/netcoreapp2.0/LiftNext.Framework.Domain.csproj.CoreCompileInputs.cache" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Domain/obj/Debug/netcoreapp2.0/LiftNext.Framework.Domain.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/LiftNext.Framework.Domain/obj/Debug/netcoreapp2.0/LiftNext.Framework.Domain.csproj.FileListAbsolute.txt" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Domain/obj/Debug/netcoreapp2.0/LiftNext.Framework.Domain.csprojResolveAssemblyReference.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Domain/obj/Debug/netcoreapp2.0/LiftNext.Framework.Domain.dll" afterPath="$PROJECT_DIR$/LiftNext.Framework.Domain/obj/Debug/netcoreapp2.0/LiftNext.Framework.Domain.dll" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Domain/obj/Debug/netcoreapp2.0/LiftNext.Framework.Domain.pdb" afterPath="$PROJECT_DIR$/LiftNext.Framework.Domain/obj/Debug/netcoreapp2.0/LiftNext.Framework.Domain.pdb" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Domain/obj/LiftNext.Framework.Domain.csproj.nuget.cache" afterPath="$PROJECT_DIR$/LiftNext.Framework.Domain/obj/LiftNext.Framework.Domain.csproj.nuget.cache" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Domain/obj/LiftNext.Framework.Domain.csproj.nuget.g.props" afterPath="$PROJECT_DIR$/LiftNext.Framework.Domain/obj/LiftNext.Framework.Domain.csproj.nuget.g.props" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Domain/obj/LiftNext.Framework.Domain.csproj.nuget.g.targets" afterPath="$PROJECT_DIR$/LiftNext.Framework.Domain/obj/LiftNext.Framework.Domain.csproj.nuget.g.targets" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Domain/obj/project.assets.json" afterPath="$PROJECT_DIR$/LiftNext.Framework.Domain/obj/project.assets.json" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mapping/obj/Debug/netcoreapp2.0/LiftNext.Framework.Mapping.AssemblyInfo.cs" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mapping/obj/Debug/netcoreapp2.0/LiftNext.Framework.Mapping.AssemblyInfo.cs" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mapping/obj/Debug/netcoreapp2.0/LiftNext.Framework.Mapping.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mapping/obj/Debug/netcoreapp2.0/LiftNext.Framework.Mapping.csproj.CoreCompileInputs.cache" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mapping/obj/Debug/netcoreapp2.0/LiftNext.Framework.Mapping.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mapping/obj/Debug/netcoreapp2.0/LiftNext.Framework.Mapping.csproj.FileListAbsolute.txt" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mapping/obj/Debug/netcoreapp2.0/LiftNext.Framework.Mapping.csprojResolveAssemblyReference.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mapping/obj/Debug/netcoreapp2.0/LiftNext.Framework.Mapping.dll" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mapping/obj/Debug/netcoreapp2.0/LiftNext.Framework.Mapping.dll" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mapping/obj/Debug/netcoreapp2.0/LiftNext.Framework.Mapping.pdb" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mapping/obj/Debug/netcoreapp2.0/LiftNext.Framework.Mapping.pdb" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mapping/obj/LiftNext.Framework.Mapping.csproj.nuget.cache" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mapping/obj/LiftNext.Framework.Mapping.csproj.nuget.cache" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mapping/obj/LiftNext.Framework.Mapping.csproj.nuget.g.props" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mapping/obj/LiftNext.Framework.Mapping.csproj.nuget.g.props" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mapping/obj/LiftNext.Framework.Mapping.csproj.nuget.g.targets" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mapping/obj/LiftNext.Framework.Mapping.csproj.nuget.g.targets" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mapping/obj/project.assets.json" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mapping/obj/project.assets.json" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/Infrastructure/Extensions/ServiceCollectionExtensions.cs" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/Infrastructure/Extensions/ServiceCollectionExtensions.cs" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/bin/Debug/netcoreapp2.0/LiftNext.Framework.Code.dll" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/bin/Debug/netcoreapp2.0/LiftNext.Framework.Code.dll" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/bin/Debug/netcoreapp2.0/LiftNext.Framework.Code.pdb" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/bin/Debug/netcoreapp2.0/LiftNext.Framework.Code.pdb" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/bin/Debug/netcoreapp2.0/LiftNext.Framework.Data.dll" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/bin/Debug/netcoreapp2.0/LiftNext.Framework.Data.dll" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/bin/Debug/netcoreapp2.0/LiftNext.Framework.Data.pdb" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/bin/Debug/netcoreapp2.0/LiftNext.Framework.Data.pdb" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/bin/Debug/netcoreapp2.0/LiftNext.Framework.Domain.dll" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/bin/Debug/netcoreapp2.0/LiftNext.Framework.Domain.dll" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/bin/Debug/netcoreapp2.0/LiftNext.Framework.Domain.pdb" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/bin/Debug/netcoreapp2.0/LiftNext.Framework.Domain.pdb" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/bin/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.Framework.dll" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/bin/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.Framework.dll" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/bin/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.Framework.pdb" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/bin/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.Framework.pdb" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/obj/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.Framework.AssemblyInfo.cs" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/obj/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.Framework.AssemblyInfo.cs" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/obj/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.Framework.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/obj/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.Framework.csproj.CoreCompileInputs.cache" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/obj/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.Framework.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/obj/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.Framework.csproj.FileListAbsolute.txt" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/obj/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.Framework.csprojResolveAssemblyReference.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/obj/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.Framework.dll" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/obj/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.Framework.dll" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/obj/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.Framework.pdb" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/obj/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.Framework.pdb" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/obj/LiftNext.Framework.Mvc.Framework.csproj.nuget.cache" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/obj/LiftNext.Framework.Mvc.Framework.csproj.nuget.cache" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/obj/LiftNext.Framework.Mvc.Framework.csproj.nuget.g.props" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/obj/LiftNext.Framework.Mvc.Framework.csproj.nuget.g.props" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/obj/LiftNext.Framework.Mvc.Framework.csproj.nuget.g.targets" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/obj/LiftNext.Framework.Mvc.Framework.csproj.nuget.g.targets" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/obj/project.assets.json" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/obj/project.assets.json" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mvc/Controllers/HomeController.cs" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mvc/Controllers/HomeController.cs" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mvc/appsettings.Development.json" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mvc/appsettings.Development.json" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mvc/appsettings.json" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mvc/appsettings.json" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mvc/wwwroot/abpSource/app/Application.js" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mvc/wwwroot/abpSource/app/Application.js" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mvc/wwwroot/abpSource/app/component/form/AbpFormCtl.js" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mvc/wwwroot/abpSource/app/component/form/AbpFormCtl.js" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mvc/wwwroot/abpSource/app/component/list/GridListCtl.js" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mvc/wwwroot/abpSource/app/component/list/GridListCtl.js" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mvc/wwwroot/abpSource/app/component/page/AppPage.js" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mvc/wwwroot/abpSource/app/component/page/AppPage.js" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mvc/wwwroot/abpSource/app/component/page/AppPageCtl.js" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mvc/wwwroot/abpSource/app/component/page/AppPageCtl.js" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mvc/wwwroot/abpSource/app/component/page/ListPage.js" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mvc/wwwroot/abpSource/app/component/page/ListPage.js" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mvc/wwwroot/abpSource/app/util/AbpUtil.js" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mvc/wwwroot/abpSource/app/util/AbpUtil.js" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mvc/wwwroot/abpSource/app/view/main/MainController.js" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mvc/wwwroot/abpSource/app/view/main/MainController.js" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mvc/wwwroot/abpSource/build/temp/development/abp/sass/abp-all.scss" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mvc/wwwroot/abpSource/build/temp/development/abp/sass/abp-all.scss" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mvc/wwwroot/abpSource/build/temp/development/abp/sass/abp-all.scss.tmp" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mvc/wwwroot/abpSource/build/temp/development/abp/sass/abp-all.scss.tmp" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mvc/wwwroot/abpSource/classic.json" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mvc/wwwroot/abpSource/classic.json" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mvc/wwwroot/abpSource/classic.jsonp" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mvc/wwwroot/abpSource/classic.jsonp" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mvc/wwwroot/abpSource/classic/src/view/main/Main.js" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mvc/wwwroot/abpSource/classic/src/view/main/Main.js" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mvc/wwwroot/abpSource/sass/example/bootstrap.json" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mvc/wwwroot/abpSource/sass/example/bootstrap.json" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Mvc/wwwroot/abpSource/sass/example/bootstrap.jsonp" afterPath="$PROJECT_DIR$/LiftNext.Framework.Mvc/wwwroot/abpSource/sass/example/bootstrap.jsonp" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Service/bin/Debug/netcoreapp2.0/LiftNext.Framework.Code.dll" afterPath="$PROJECT_DIR$/LiftNext.Framework.Service/bin/Debug/netcoreapp2.0/LiftNext.Framework.Code.dll" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Service/bin/Debug/netcoreapp2.0/LiftNext.Framework.Code.pdb" afterPath="$PROJECT_DIR$/LiftNext.Framework.Service/bin/Debug/netcoreapp2.0/LiftNext.Framework.Code.pdb" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Service/bin/Debug/netcoreapp2.0/LiftNext.Framework.Data.dll" afterPath="$PROJECT_DIR$/LiftNext.Framework.Service/bin/Debug/netcoreapp2.0/LiftNext.Framework.Data.dll" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Service/bin/Debug/netcoreapp2.0/LiftNext.Framework.Data.pdb" afterPath="$PROJECT_DIR$/LiftNext.Framework.Service/bin/Debug/netcoreapp2.0/LiftNext.Framework.Data.pdb" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Service/bin/Debug/netcoreapp2.0/LiftNext.Framework.Domain.dll" afterPath="$PROJECT_DIR$/LiftNext.Framework.Service/bin/Debug/netcoreapp2.0/LiftNext.Framework.Domain.dll" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Service/bin/Debug/netcoreapp2.0/LiftNext.Framework.Domain.pdb" afterPath="$PROJECT_DIR$/LiftNext.Framework.Service/bin/Debug/netcoreapp2.0/LiftNext.Framework.Domain.pdb" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Service/bin/Debug/netcoreapp2.0/LiftNext.Framework.Service.dll" afterPath="$PROJECT_DIR$/LiftNext.Framework.Service/bin/Debug/netcoreapp2.0/LiftNext.Framework.Service.dll" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Service/bin/Debug/netcoreapp2.0/LiftNext.Framework.Service.pdb" afterPath="$PROJECT_DIR$/LiftNext.Framework.Service/bin/Debug/netcoreapp2.0/LiftNext.Framework.Service.pdb" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Service/obj/Debug/netcoreapp2.0/LiftNext.Framework.Service.AssemblyInfo.cs" afterPath="$PROJECT_DIR$/LiftNext.Framework.Service/obj/Debug/netcoreapp2.0/LiftNext.Framework.Service.AssemblyInfo.cs" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Service/obj/Debug/netcoreapp2.0/LiftNext.Framework.Service.csproj.CoreCompileInputs.cache" afterPath="$PROJECT_DIR$/LiftNext.Framework.Service/obj/Debug/netcoreapp2.0/LiftNext.Framework.Service.csproj.CoreCompileInputs.cache" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Service/obj/Debug/netcoreapp2.0/LiftNext.Framework.Service.csproj.FileListAbsolute.txt" afterPath="$PROJECT_DIR$/LiftNext.Framework.Service/obj/Debug/netcoreapp2.0/LiftNext.Framework.Service.csproj.FileListAbsolute.txt" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Service/obj/Debug/netcoreapp2.0/LiftNext.Framework.Service.csprojResolveAssemblyReference.cache" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Service/obj/Debug/netcoreapp2.0/LiftNext.Framework.Service.dll" afterPath="$PROJECT_DIR$/LiftNext.Framework.Service/obj/Debug/netcoreapp2.0/LiftNext.Framework.Service.dll" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Service/obj/Debug/netcoreapp2.0/LiftNext.Framework.Service.pdb" afterPath="$PROJECT_DIR$/LiftNext.Framework.Service/obj/Debug/netcoreapp2.0/LiftNext.Framework.Service.pdb" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Service/obj/LiftNext.Framework.Service.csproj.nuget.cache" afterPath="$PROJECT_DIR$/LiftNext.Framework.Service/obj/LiftNext.Framework.Service.csproj.nuget.cache" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Service/obj/LiftNext.Framework.Service.csproj.nuget.g.props" afterPath="$PROJECT_DIR$/LiftNext.Framework.Service/obj/LiftNext.Framework.Service.csproj.nuget.g.props" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Service/obj/LiftNext.Framework.Service.csproj.nuget.g.targets" afterPath="$PROJECT_DIR$/LiftNext.Framework.Service/obj/LiftNext.Framework.Service.csproj.nuget.g.targets" />
+      <change beforePath="$PROJECT_DIR$/LiftNext.Framework.Service/obj/project.assets.json" afterPath="$PROJECT_DIR$/LiftNext.Framework.Service/obj/project.assets.json" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="MenuController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc/Areas/Sys/Controllers/MenuController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="23" column="38" lean-forward="false" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+              <folding>
+                <marker date="1514699854005" expanded="false" signature="6:277" ph="..." />
+                <marker date="1514699854005" expanded="true" signature="394:961" ph="{...}" />
+                <marker date="1514699854005" expanded="true" signature="546:639" ph="{...}" />
+                <marker date="1514699854005" expanded="true" signature="722:955" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyController.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc/Areas/MyController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="48">
+              <caret line="17" column="38" lean-forward="false" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+              <folding>
+                <marker date="1514699854004" expanded="false" signature="7:441" ph="..." />
+                <marker date="1514699854004" expanded="true" signature="481:6588" ph="{...}" />
+                <marker date="1514699854004" expanded="true" signature="557:5960" ph="{...}" />
+                <marker date="1514699854004" expanded="true" signature="573:628" ph="/// 存储操作对象 ... " />
+                <marker date="1514699854004" expanded="true" signature="762:1155" ph="{...}" />
+                <marker date="1514699854004" expanded="true" signature="1255:1618" ph="{...}" />
+                <marker date="1514699854004" expanded="true" signature="1717:2118" ph="{...}" />
+                <marker date="1514699854004" expanded="true" signature="2188:3194" ph="{...}" />
+                <marker date="1514699854004" expanded="true" signature="2565:2693" ph="{...}" />
+                <marker date="1514699854004" expanded="true" signature="2710:2809" ph="{...}" />
+                <marker date="1514699854004" expanded="true" signature="3271:3476" ph="{...}" />
+                <marker date="1514699854004" expanded="true" signature="3549:5199" ph="{...}" />
+                <marker date="1514699854004" expanded="true" signature="3657:3735" ph="{...}" />
+                <marker date="1514699854004" expanded="true" signature="3814:3893" ph="{...}" />
+                <marker date="1514699854004" expanded="true" signature="4014:4140" ph="{...}" />
+                <marker date="1514699854004" expanded="true" signature="4207:4428" ph="{...}" />
+                <marker date="1514699854004" expanded="true" signature="4445:4540" ph="{...}" />
+                <marker date="1514699854004" expanded="true" signature="5238:5954" ph="{...}" />
+                <marker date="1514699854004" expanded="true" signature="5407:5490" ph="{...}" />
+                <marker date="1514699854004" expanded="true" signature="6021:6119" ph="{...}" />
+                <marker date="1514699854004" expanded="true" signature="6149:6244" ph="{...}" />
+                <marker date="1514699854004" expanded="true" signature="6305:6403" ph="{...}" />
+                <marker date="1514699854004" expanded="true" signature="6433:6485" ph="{...}" />
+                <marker date="1514699854004" expanded="true" signature="6517:6586" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="HomeController.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc/Controllers/HomeController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="20" column="14" lean-forward="false" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+              <folding>
+                <marker date="1514701811951" expanded="false" signature="6:117" ph="..." />
+                <marker date="1514701811951" expanded="true" signature="163:757" ph="{...}" />
+                <marker date="1514701811951" expanded="true" signature="210:755" ph="{...}" />
+                <marker date="1514701811951" expanded="true" signature="311:358" ph="{...}" />
+                <marker date="1514701811951" expanded="true" signature="395:457" ph="{...}" />
+                <marker date="1514701811951" expanded="true" signature="494:610" ph="{...}" />
+                <marker date="1514701811951" expanded="true" signature="649:749" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="LoginFilter.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/Mvc/Filters/LoginFilter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <marker date="1514699853975" expanded="true" signature="6:372" ph="..." />
+                <marker date="1514699853975" expanded="true" signature="428:1574" ph="{...}" />
+                <marker date="1514699853975" expanded="true" signature="475:1572" ph="{...}" />
+                <marker date="1514699853975" expanded="true" signature="549:569" ph="{...}" />
+                <marker date="1514699853975" expanded="true" signature="640:1563" ph="{...}" />
+                <marker date="1514699853975" expanded="true" signature="802:1553" ph="{...}" />
+                <marker date="1514699853975" expanded="true" signature="996:1539" ph="{...}" />
+                <marker date="1514699853975" expanded="true" signature="1188:1520" ph="{...}" />
+                <marker date="1514699853975" expanded="true" signature="1295:1495" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MyExceptionFilter.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/Mvc/Filters/MyExceptionFilter.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="272">
+              <caret line="17" column="12" lean-forward="false" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+              <folding>
+                <marker date="1514699853976" expanded="true" signature="6:238" ph="..." />
+                <marker date="1514699853976" expanded="true" signature="294:1540" ph="{...}" />
+                <marker date="1514699853976" expanded="true" signature="358:1538" ph="{...}" />
+                <marker date="1514699853976" expanded="true" signature="431:1530" ph="{...}" />
+                <marker date="1514699853976" expanded="true" signature="812:1052" ph="/* ajax请求 ... */" />
+                <marker date="1514699853976" expanded="true" signature="1068:1233" ph="/* var logger = EngineContext.Current.Resolve&lt;ILogger&lt;MyExceptionFilter&gt;&gt;(); ... */" />
+                <marker date="1514699853976" expanded="true" signature="1418:1518" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AutoTransactionAttribute.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/Mvc/Attributes/AutoTransactionAttribute.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="864">
+              <caret line="63" column="36" lean-forward="false" selection-start-line="63" selection-start-column="36" selection-end-line="63" selection-end-column="36" />
+              <folding>
+                <marker date="1514699853975" expanded="false" signature="7:318" ph="..." />
+                <marker date="1514699853975" expanded="true" signature="377:2102" ph="{...}" />
+                <marker date="1514699853975" expanded="true" signature="448:2100" ph="{...}" />
+                <marker date="1514699853975" expanded="true" signature="557:627" ph="{...}" />
+                <marker date="1514699853975" expanded="true" signature="637:692" ph="/// 事务隔离级别 ... " />
+                <marker date="1514699853975" expanded="true" signature="820:1808" ph="{...}" />
+                <marker date="1514699853975" expanded="true" signature="1031:1713" ph="{...}" />
+                <marker date="1514699853975" expanded="true" signature="1155:1267" ph="{...}" />
+                <marker date="1514699853975" expanded="true" signature="1730:1796" ph="{...}" />
+                <marker date="1514699853975" expanded="true" signature="1879:2094" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ApplicationBuilderExtensions.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/Infrastructure/Extensions/ApplicationBuilderExtensions.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+              <folding>
+                <marker date="1514699853974" expanded="false" signature="7:293" ph="..." />
+                <marker date="1514699853974" expanded="true" signature="363:3214" ph="{...}" />
+                <marker date="1514699853974" expanded="true" signature="370:455" ph="/// Represents extensions of IApplicationBuilder ... " />
+                <marker date="1514699853974" expanded="true" signature="508:3212" ph="{...}" />
+                <marker date="1514699853974" expanded="true" signature="523:723" ph="/// Configure the application HTTP request pipeline ... " />
+                <marker date="1514699853974" expanded="true" signature="813:906" ph="{...}" />
+                <marker date="1514699853974" expanded="true" signature="917:1092" ph="/// Add exception handling ... " />
+                <marker date="1514699853974" expanded="true" signature="1175:1237" ph="{...}" />
+                <marker date="1514699853974" expanded="true" signature="1247:1422" ph="/// Add exception handling ... " />
+                <marker date="1514699853974" expanded="true" signature="1510:2100" ph="{...}" />
+                <marker date="1514699853974" expanded="true" signature="1855:1986" ph="{...}" />
+                <marker date="1514699853974" expanded="true" signature="2003:2090" ph="{...}" />
+                <marker date="1514699853974" expanded="true" signature="2110:2285" ph="/// Add exception handling ... " />
+                <marker date="1514699853974" expanded="true" signature="2365:2423" ph="{...}" />
+                <marker date="1514699853974" expanded="true" signature="2436:2610" ph="/// Configure MVC routing ... " />
+                <marker date="1514699853974" expanded="true" signature="2685:3204" ph="{...}" />
+                <marker date="1514699853974" expanded="true" signature="2703:2814" ph="/* application.UseCors(builder =&gt; ... */" />
+                <marker date="1514699853974" expanded="true" signature="2862:3173" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ServiceCollectionExtensions.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/Infrastructure/Extensions/ServiceCollectionExtensions.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2944">
+              <caret line="198" column="25" lean-forward="false" selection-start-line="198" selection-start-column="25" selection-end-line="198" selection-end-column="25" />
+              <folding>
+                <marker date="1514705872278" expanded="false" signature="6:540" ph="..." />
+                <marker date="1514705872278" expanded="true" signature="610:10550" ph="{...}" />
+                <marker date="1514705872278" expanded="true" signature="617:701" ph="/// Represents extensions of IServiceCollection ... " />
+                <marker date="1514705872278" expanded="true" signature="753:10548" ph="{...}" />
+                <marker date="1514705872278" expanded="true" signature="768:1101" ph="/// Add services to the application and configure service provider ... " />
+                <marker date="1514705872278" expanded="true" signature="1221:2324" ph="{...}" />
+                <marker date="1514705872278" expanded="true" signature="1244:1567" ph="/* add NopConfig configuration parameters ... */" />
+                <marker date="1514705872278" expanded="true" signature="1840:2314" ph="/* if (DataSettingsHelper.DatabaseIsInstalled()) ... */" />
+                <marker date="1514705872278" expanded="true" signature="2334:2781" ph="/// Create, bind and register as service the specified configuration parameters  ... " />
+                <marker date="1514705872278" expanded="true" signature="2936:3474" ph="{...}" />
+                <marker date="1514705872278" expanded="true" signature="3254:3393" ph="/* bind it to the appropriate section of configuration ... */" />
+                <marker date="1514705872278" expanded="true" signature="3484:3638" ph="/// Register HttpContextAccessor ... " />
+                <marker date="1514705872278" expanded="true" signature="3722:3822" ph="{...}" />
+                <marker date="1514705872278" expanded="true" signature="3832:4005" ph="/// Adds services required for anti-forgery support ... " />
+                <marker date="1514705872278" expanded="true" signature="4081:4271" ph="{...}" />
+                <marker date="1514705872278" expanded="true" signature="4173:4259" ph="{...}" />
+                <marker date="1514705872278" expanded="true" signature="4281:4459" ph="/// Adds services required for application session state ... " />
+                <marker date="1514705872278" expanded="true" signature="4564:5054" ph="{...}" />
+                <marker date="1514705872278" expanded="true" signature="4588:4868" ph="/* services.AddDistributedRedisCache(option =&gt; ... */" />
+                <marker date="1514705872278" expanded="true" signature="4912:5042" ph="{...}" />
+                <marker date="1514705872278" expanded="true" signature="5066:5219" ph="/// Adds authentication service ... " />
+                <marker date="1514705872278" expanded="true" signature="5301:7475" ph="{...}" />
+                <marker date="1514705872278" expanded="true" signature="5324:7465" ph="/* set default authentication schemes ... */" />
+                <marker date="1514705872278" expanded="true" signature="7485:7722" ph="/// Add and configure MVC for the application ... " />
+                <marker date="1514705872278" expanded="true" signature="7800:10540" ph="{...}" />
+                <marker date="1514705872278" expanded="true" signature="7864:8099" ph="{...}" />
+                <marker date="1514705872278" expanded="true" signature="8157:8263" ph="{...}" />
+                <marker date="1514705872278" expanded="true" signature="8355:8501" ph="{...}" />
+                <marker date="1514705872278" expanded="true" signature="8384:8487" ph="/* opt.Filters.Add(typeof(MyExceptionFilter)); ... */" />
+                <marker date="1514705872278" expanded="true" signature="8562:9073" ph="{...}" />
+                <marker date="1514705872278" expanded="true" signature="9126:9251" ph="{...}" />
+                <marker date="1514705872278" expanded="true" signature="9303:10498" ph="/* services.Configure&lt;MvcOptions&gt;(options =&gt; ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appsettings.Development.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc/appsettings.Development.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="160">
+              <caret line="10" column="96" lean-forward="false" selection-start-line="10" selection-start-column="96" selection-end-line="10" selection-end-column="96" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="appsettings.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc/appsettings.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="128">
+              <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$USER_HOME$/.config/NuGet/NuGet.Config" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/Controllers/BaseController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/Infrastructure/EapCommonStartup.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/Mvc/Filters/MyExceptionFilter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/Infrastructure/Extensions/ServiceCollectionExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/Mvc/Filters/LoginFilter.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/Infrastructure/Extensions/ApplicationBuilderExtensions.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LiftNext.Framework.Code/Util/ReflectionUtil.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/Mvc/Attributes/AutoTransactionAttribute.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc/Areas/MyController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LiftNext.Framework.Data/Context/IndependentDbContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LiftNext.Framework.Data/Context/EapDbContext.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc/Controllers/HomeController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LiftNext.Framework.Data/Dependency/DependencyRegistrar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LiftNext.Framework.Code/Dependency/DependencyRegistrar.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc/Areas/Sys/Controllers/MenuController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LiftNext.Framework.Code/Infrastructure/EapEngine.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc/Areas/Sys/Controllers/ServerConfigController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc/obj/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc/Areas/Sys/Controllers/MessageController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/LiftNext.Framework.Mapping/obj/Debug/netcoreapp2.0/LiftNext.Framework.Mapping.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/LiftNext.Framework.Mvc/Controllers/HomeController.cs" />
+        <option value="$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/Infrastructure/Extensions/ServiceCollectionExtensions.cs" />
+        <option value="$PROJECT_DIR$/LiftNext.Framework.Mvc/appsettings.Development.json" />
+        <option value="$PROJECT_DIR$/LiftNext.Framework.Mvc/appsettings.json" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1440" />
+    <option name="height" value="805" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="LiftNextCore (7 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="LiftNextCore (7 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Libraries" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="LiftNextCore (7 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Libraries" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="LiftNext.Framework.Code" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="LiftNextCore (7 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Presentation" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="LiftNextCore (7 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Presentation" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="LiftNext.Framework.Mvc" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="LiftNextCore (7 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Presentation" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="LiftNext.Framework.Mvc" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Controllers" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/LiftNext.Framework.Mvc/bin/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/LiftNext.Framework.Mvc" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_MONO" value="0" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/LiftNext.Framework.Mvc/LiftNext.Framework.Mvc.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.0" />
+      <browser url="http://localhost:5000" />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0c28db9f-0e12-4fa6-a645-18934dfc28c4" name="Default" comment="" />
+      <created>1514699988726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1514699988726</updated>
+      <workItem from="1514699993450" duration="1151000" />
+      <workItem from="1514701195627" duration="4287000" />
+      <workItem from="1514769549218" duration="1412000" />
+      <workItem from="1514894706496" duration="476000" />
+      <workItem from="1515203343587" duration="384000" />
+    </task>
+    <task id="LOCAL-00001" summary="1221">
+      <created>1514700370468</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1514700370468</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1221">
+      <created>1514776017072</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1514776017072</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1221">
+      <created>1514894793422</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1514894793422</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7710000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="805" extended-state="0" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Errors In Solution" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928476" sideWeight="0.50555557" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Unit Tests" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287858" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287858" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="NuGet" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32928476" sideWeight="0.49444443" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Build" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3287858" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3983629" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1221" />
+    <option name="LAST_COMMIT_MESSAGE" value="1221" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/Mvc/Filters/LoginFilter.cs</url>
+          <line>23</line>
+          <properties documentPath="$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/Mvc/Filters/LoginFilter.cs">
+            <startOffsets>
+              <startOffset value="663" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="766" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/Mvc/Attributes/AutoTransactionAttribute.cs</url>
+          <line>61</line>
+          <properties documentPath="$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/Mvc/Attributes/AutoTransactionAttribute.cs">
+            <startOffsets>
+              <startOffset value="1902" />
+            </startOffsets>
+            <endOffsets>
+              <endOffset value="1938" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc/Areas/Sys/Controllers/MessageController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1514699854005" expanded="true" signature="6:424" ph="..." />
+            <marker date="1514699854005" expanded="true" signature="548:2408" ph="{...}" />
+            <marker date="1514699854005" expanded="true" signature="563:616" ph="/// 消息服务 ... " />
+            <marker date="1514699854005" expanded="true" signature="861:1004" ph="{...}" />
+            <marker date="1514699854005" expanded="true" signature="1014:1101" ph="/// 获取我的消息 ... " />
+            <marker date="1514699854005" expanded="true" signature="1144:1536" ph="{...}" />
+            <marker date="1514699854005" expanded="true" signature="1658:1988" ph="{...}" />
+            <marker date="1514699854005" expanded="true" signature="2094:2401" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc/Areas/MyController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="17" column="38" lean-forward="true" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+          <folding>
+            <marker date="1514699854004" expanded="false" signature="7:441" ph="..." />
+            <marker date="1514699854004" expanded="true" signature="481:6588" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="557:5960" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="573:628" ph="/// 存储操作对象 ... " />
+            <marker date="1514699854004" expanded="true" signature="762:1155" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="1255:1618" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="1717:2118" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="2188:3194" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="2565:2693" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="2710:2809" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="3271:3476" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="3549:5199" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="3657:3735" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="3814:3893" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="4014:4140" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="4207:4428" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="4445:4540" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="5238:5954" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="5407:5490" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="6021:6119" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="6149:6244" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="6305:6403" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="6433:6485" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="6517:6586" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc/Areas/Sys/Controllers/MenuController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="23" column="38" lean-forward="false" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+          <folding>
+            <marker date="1514699854005" expanded="false" signature="6:277" ph="..." />
+            <marker date="1514699854005" expanded="true" signature="394:961" ph="{...}" />
+            <marker date="1514699854005" expanded="true" signature="546:639" ph="{...}" />
+            <marker date="1514699854005" expanded="true" signature="722:955" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/Mvc/Filters/LoginFilter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1514699853975" expanded="true" signature="6:372" ph="..." />
+            <marker date="1514699853975" expanded="true" signature="428:1574" ph="{...}" />
+            <marker date="1514699853975" expanded="true" signature="475:1572" ph="{...}" />
+            <marker date="1514699853975" expanded="true" signature="549:569" ph="{...}" />
+            <marker date="1514699853975" expanded="true" signature="640:1563" ph="{...}" />
+            <marker date="1514699853975" expanded="true" signature="802:1553" ph="{...}" />
+            <marker date="1514699853975" expanded="true" signature="996:1539" ph="{...}" />
+            <marker date="1514699853975" expanded="true" signature="1188:1520" ph="{...}" />
+            <marker date="1514699853975" expanded="true" signature="1295:1495" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/Mvc/Filters/MyExceptionFilter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="12" lean-forward="false" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          <folding>
+            <marker date="1514699853976" expanded="true" signature="6:238" ph="..." />
+            <marker date="1514699853976" expanded="true" signature="294:1540" ph="{...}" />
+            <marker date="1514699853976" expanded="true" signature="358:1538" ph="{...}" />
+            <marker date="1514699853976" expanded="true" signature="431:1530" ph="{...}" />
+            <marker date="1514699853976" expanded="true" signature="812:1052" ph="/* ajax请求 ... */" />
+            <marker date="1514699853976" expanded="true" signature="1068:1233" ph="/* var logger = EngineContext.Current.Resolve&lt;ILogger&lt;MyExceptionFilter&gt;&gt;(); ... */" />
+            <marker date="1514699853976" expanded="true" signature="1418:1518" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/Mvc/Attributes/AutoTransactionAttribute.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="63" column="36" lean-forward="false" selection-start-line="63" selection-start-column="36" selection-end-line="63" selection-end-column="36" />
+          <folding>
+            <marker date="1514699853975" expanded="false" signature="7:318" ph="..." />
+            <marker date="1514699853975" expanded="true" signature="377:2102" ph="{...}" />
+            <marker date="1514699853975" expanded="true" signature="448:2100" ph="{...}" />
+            <marker date="1514699853975" expanded="true" signature="557:627" ph="{...}" />
+            <marker date="1514699853975" expanded="true" signature="637:692" ph="/// 事务隔离级别 ... " />
+            <marker date="1514699853975" expanded="true" signature="820:1808" ph="{...}" />
+            <marker date="1514699853975" expanded="true" signature="1031:1713" ph="{...}" />
+            <marker date="1514699853975" expanded="true" signature="1155:1267" ph="{...}" />
+            <marker date="1514699853975" expanded="true" signature="1730:1796" ph="{...}" />
+            <marker date="1514699853975" expanded="true" signature="1879:2094" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/Infrastructure/Extensions/ApplicationBuilderExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <marker date="1514699853974" expanded="false" signature="7:293" ph="..." />
+            <marker date="1514699853974" expanded="true" signature="363:3214" ph="{...}" />
+            <marker date="1514699853974" expanded="true" signature="370:455" ph="/// Represents extensions of IApplicationBuilder ... " />
+            <marker date="1514699853974" expanded="true" signature="508:3212" ph="{...}" />
+            <marker date="1514699853974" expanded="true" signature="523:723" ph="/// Configure the application HTTP request pipeline ... " />
+            <marker date="1514699853974" expanded="true" signature="813:906" ph="{...}" />
+            <marker date="1514699853974" expanded="true" signature="917:1092" ph="/// Add exception handling ... " />
+            <marker date="1514699853974" expanded="true" signature="1175:1237" ph="{...}" />
+            <marker date="1514699853974" expanded="true" signature="1247:1422" ph="/// Add exception handling ... " />
+            <marker date="1514699853974" expanded="true" signature="1510:2100" ph="{...}" />
+            <marker date="1514699853974" expanded="true" signature="1855:1986" ph="{...}" />
+            <marker date="1514699853974" expanded="true" signature="2003:2090" ph="{...}" />
+            <marker date="1514699853974" expanded="true" signature="2110:2285" ph="/// Add exception handling ... " />
+            <marker date="1514699853974" expanded="true" signature="2365:2423" ph="{...}" />
+            <marker date="1514699853974" expanded="true" signature="2436:2610" ph="/// Configure MVC routing ... " />
+            <marker date="1514699853974" expanded="true" signature="2685:3204" ph="{...}" />
+            <marker date="1514699853974" expanded="true" signature="2703:2814" ph="/* application.UseCors(builder =&gt; ... */" />
+            <marker date="1514699853974" expanded="true" signature="2862:3173" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/Infrastructure/Extensions/ServiceCollectionExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2944">
+          <caret line="198" column="25" lean-forward="false" selection-start-line="198" selection-start-column="25" selection-end-line="198" selection-end-column="25" />
+          <folding>
+            <marker date="1514705872278" expanded="false" signature="6:540" ph="..." />
+            <marker date="1514705872278" expanded="true" signature="610:10550" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="617:701" ph="/// Represents extensions of IServiceCollection ... " />
+            <marker date="1514705872278" expanded="true" signature="753:10548" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="768:1101" ph="/// Add services to the application and configure service provider ... " />
+            <marker date="1514705872278" expanded="true" signature="1221:2324" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="1244:1567" ph="/* add NopConfig configuration parameters ... */" />
+            <marker date="1514705872278" expanded="true" signature="1840:2314" ph="/* if (DataSettingsHelper.DatabaseIsInstalled()) ... */" />
+            <marker date="1514705872278" expanded="true" signature="2334:2781" ph="/// Create, bind and register as service the specified configuration parameters  ... " />
+            <marker date="1514705872278" expanded="true" signature="2936:3474" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="3254:3393" ph="/* bind it to the appropriate section of configuration ... */" />
+            <marker date="1514705872278" expanded="true" signature="3484:3638" ph="/// Register HttpContextAccessor ... " />
+            <marker date="1514705872278" expanded="true" signature="3722:3822" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="3832:4005" ph="/// Adds services required for anti-forgery support ... " />
+            <marker date="1514705872278" expanded="true" signature="4081:4271" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="4173:4259" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="4281:4459" ph="/// Adds services required for application session state ... " />
+            <marker date="1514705872278" expanded="true" signature="4564:5054" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="4588:4868" ph="/* services.AddDistributedRedisCache(option =&gt; ... */" />
+            <marker date="1514705872278" expanded="true" signature="4912:5042" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="5066:5219" ph="/// Adds authentication service ... " />
+            <marker date="1514705872278" expanded="true" signature="5301:7475" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="5324:7465" ph="/* set default authentication schemes ... */" />
+            <marker date="1514705872278" expanded="true" signature="7485:7722" ph="/// Add and configure MVC for the application ... " />
+            <marker date="1514705872278" expanded="true" signature="7800:10540" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="7864:8099" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="8157:8263" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="8355:8501" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="8384:8487" ph="/* opt.Filters.Add(typeof(MyExceptionFilter)); ... */" />
+            <marker date="1514705872278" expanded="true" signature="8562:9073" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="9126:9251" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="9303:10498" ph="/* services.Configure&lt;MvcOptions&gt;(options =&gt; ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc/appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="96" lean-forward="false" selection-start-line="10" selection-start-column="96" selection-end-line="10" selection-end-column="96" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc/Areas/Sys/Controllers/MessageController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1514699854005" expanded="true" signature="6:424" ph="..." />
+            <marker date="1514699854005" expanded="true" signature="548:2408" ph="{...}" />
+            <marker date="1514699854005" expanded="true" signature="563:616" ph="/// 消息服务 ... " />
+            <marker date="1514699854005" expanded="true" signature="861:1004" ph="{...}" />
+            <marker date="1514699854005" expanded="true" signature="1014:1101" ph="/// 获取我的消息 ... " />
+            <marker date="1514699854005" expanded="true" signature="1144:1536" ph="{...}" />
+            <marker date="1514699854005" expanded="true" signature="1658:1988" ph="{...}" />
+            <marker date="1514699854005" expanded="true" signature="2094:2401" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc/Areas/MyController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1056">
+          <caret line="80" column="12" lean-forward="false" selection-start-line="80" selection-start-column="12" selection-end-line="80" selection-end-column="12" />
+          <folding>
+            <marker date="1514699854004" expanded="false" signature="7:441" ph="..." />
+            <marker date="1514699854004" expanded="true" signature="481:6588" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="557:5960" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="573:628" ph="/// 存储操作对象 ... " />
+            <marker date="1514699854004" expanded="true" signature="762:1155" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="1255:1618" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="1717:2118" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="2188:3194" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="2565:2693" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="2710:2809" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="3271:3476" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="3549:5199" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="3657:3735" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="3814:3893" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="4014:4140" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="4207:4428" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="4445:4540" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="5238:5954" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="5407:5490" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="6021:6119" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="6149:6244" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="6305:6403" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="6433:6485" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="6517:6586" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc/Areas/Sys/Controllers/MenuController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="23" column="38" lean-forward="false" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+          <folding>
+            <marker date="1514699854005" expanded="false" signature="6:277" ph="..." />
+            <marker date="1514699854005" expanded="true" signature="394:961" ph="{...}" />
+            <marker date="1514699854005" expanded="true" signature="546:639" ph="{...}" />
+            <marker date="1514699854005" expanded="true" signature="722:955" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/Mvc/Filters/LoginFilter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1514699853975" expanded="true" signature="6:372" ph="..." />
+            <marker date="1514699853975" expanded="true" signature="428:1574" ph="{...}" />
+            <marker date="1514699853975" expanded="true" signature="475:1572" ph="{...}" />
+            <marker date="1514699853975" expanded="true" signature="549:569" ph="{...}" />
+            <marker date="1514699853975" expanded="true" signature="640:1563" ph="{...}" />
+            <marker date="1514699853975" expanded="true" signature="802:1553" ph="{...}" />
+            <marker date="1514699853975" expanded="true" signature="996:1539" ph="{...}" />
+            <marker date="1514699853975" expanded="true" signature="1188:1520" ph="{...}" />
+            <marker date="1514699853975" expanded="true" signature="1295:1495" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/Mvc/Filters/MyExceptionFilter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="12" lean-forward="false" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          <folding>
+            <marker date="1514699853976" expanded="true" signature="6:238" ph="..." />
+            <marker date="1514699853976" expanded="true" signature="294:1540" ph="{...}" />
+            <marker date="1514699853976" expanded="true" signature="358:1538" ph="{...}" />
+            <marker date="1514699853976" expanded="true" signature="431:1530" ph="{...}" />
+            <marker date="1514699853976" expanded="true" signature="812:1052" ph="/* ajax请求 ... */" />
+            <marker date="1514699853976" expanded="true" signature="1068:1233" ph="/* var logger = EngineContext.Current.Resolve&lt;ILogger&lt;MyExceptionFilter&gt;&gt;(); ... */" />
+            <marker date="1514699853976" expanded="true" signature="1418:1518" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/Mvc/Attributes/AutoTransactionAttribute.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="63" column="36" lean-forward="false" selection-start-line="63" selection-start-column="36" selection-end-line="63" selection-end-column="36" />
+          <folding>
+            <marker date="1514699853975" expanded="false" signature="7:318" ph="..." />
+            <marker date="1514699853975" expanded="true" signature="377:2102" ph="{...}" />
+            <marker date="1514699853975" expanded="true" signature="448:2100" ph="{...}" />
+            <marker date="1514699853975" expanded="true" signature="557:627" ph="{...}" />
+            <marker date="1514699853975" expanded="true" signature="637:692" ph="/// 事务隔离级别 ... " />
+            <marker date="1514699853975" expanded="true" signature="820:1808" ph="{...}" />
+            <marker date="1514699853975" expanded="true" signature="1031:1713" ph="{...}" />
+            <marker date="1514699853975" expanded="true" signature="1155:1267" ph="{...}" />
+            <marker date="1514699853975" expanded="true" signature="1730:1796" ph="{...}" />
+            <marker date="1514699853975" expanded="true" signature="1879:2094" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/Infrastructure/Extensions/ApplicationBuilderExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1514699853974" expanded="false" signature="7:293" ph="..." />
+            <marker date="1514699853974" expanded="true" signature="363:3214" ph="{...}" />
+            <marker date="1514699853974" expanded="true" signature="370:455" ph="/// Represents extensions of IApplicationBuilder ... " />
+            <marker date="1514699853974" expanded="true" signature="508:3212" ph="{...}" />
+            <marker date="1514699853974" expanded="true" signature="523:723" ph="/// Configure the application HTTP request pipeline ... " />
+            <marker date="1514699853974" expanded="true" signature="813:906" ph="{...}" />
+            <marker date="1514699853974" expanded="true" signature="917:1092" ph="/// Add exception handling ... " />
+            <marker date="1514699853974" expanded="true" signature="1175:1237" ph="{...}" />
+            <marker date="1514699853974" expanded="true" signature="1247:1422" ph="/// Add exception handling ... " />
+            <marker date="1514699853974" expanded="true" signature="1510:2100" ph="{...}" />
+            <marker date="1514699853974" expanded="true" signature="1855:1986" ph="{...}" />
+            <marker date="1514699853974" expanded="true" signature="2003:2090" ph="{...}" />
+            <marker date="1514699853974" expanded="true" signature="2110:2285" ph="/// Add exception handling ... " />
+            <marker date="1514699853974" expanded="true" signature="2365:2423" ph="{...}" />
+            <marker date="1514699853974" expanded="true" signature="2436:2610" ph="/// Configure MVC routing ... " />
+            <marker date="1514699853974" expanded="true" signature="2685:3204" ph="{...}" />
+            <marker date="1514699853974" expanded="true" signature="2703:2814" ph="/* application.UseCors(builder =&gt; ... */" />
+            <marker date="1514699853974" expanded="true" signature="2862:3173" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc/Areas/Sys/Controllers/ServerConfigController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc/appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="91" lean-forward="false" selection-start-line="10" selection-start-column="83" selection-end-line="10" selection-end-column="91" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="11" column="24" lean-forward="false" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc/Areas/Sys/Controllers/MessageController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1514699854005" expanded="true" signature="6:424" ph="..." />
+            <marker date="1514699854005" expanded="true" signature="548:2408" ph="{...}" />
+            <marker date="1514699854005" expanded="true" signature="563:616" ph="/// 消息服务 ... " />
+            <marker date="1514699854005" expanded="true" signature="861:1004" ph="{...}" />
+            <marker date="1514699854005" expanded="true" signature="1014:1101" ph="/// 获取我的消息 ... " />
+            <marker date="1514699854005" expanded="true" signature="1144:1536" ph="{...}" />
+            <marker date="1514699854005" expanded="true" signature="1658:1988" ph="{...}" />
+            <marker date="1514699854005" expanded="true" signature="2094:2401" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/Infrastructure/Extensions/ServiceCollectionExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2944">
+          <caret line="198" column="25" lean-forward="false" selection-start-line="198" selection-start-column="25" selection-end-line="198" selection-end-column="25" />
+          <folding>
+            <marker date="1514705872278" expanded="false" signature="6:540" ph="..." />
+            <marker date="1514705872278" expanded="true" signature="610:10550" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="617:701" ph="/// Represents extensions of IServiceCollection ... " />
+            <marker date="1514705872278" expanded="true" signature="753:10548" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="768:1101" ph="/// Add services to the application and configure service provider ... " />
+            <marker date="1514705872278" expanded="true" signature="1221:2324" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="1244:1567" ph="/* add NopConfig configuration parameters ... */" />
+            <marker date="1514705872278" expanded="true" signature="1840:2314" ph="/* if (DataSettingsHelper.DatabaseIsInstalled()) ... */" />
+            <marker date="1514705872278" expanded="true" signature="2334:2781" ph="/// Create, bind and register as service the specified configuration parameters  ... " />
+            <marker date="1514705872278" expanded="true" signature="2936:3474" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="3254:3393" ph="/* bind it to the appropriate section of configuration ... */" />
+            <marker date="1514705872278" expanded="true" signature="3484:3638" ph="/// Register HttpContextAccessor ... " />
+            <marker date="1514705872278" expanded="true" signature="3722:3822" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="3832:4005" ph="/// Adds services required for anti-forgery support ... " />
+            <marker date="1514705872278" expanded="true" signature="4081:4271" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="4173:4259" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="4281:4459" ph="/// Adds services required for application session state ... " />
+            <marker date="1514705872278" expanded="true" signature="4564:5054" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="4588:4868" ph="/* services.AddDistributedRedisCache(option =&gt; ... */" />
+            <marker date="1514705872278" expanded="true" signature="4912:5042" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="5066:5219" ph="/// Adds authentication service ... " />
+            <marker date="1514705872278" expanded="true" signature="5301:7475" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="5324:7465" ph="/* set default authentication schemes ... */" />
+            <marker date="1514705872278" expanded="true" signature="7485:7722" ph="/// Add and configure MVC for the application ... " />
+            <marker date="1514705872278" expanded="true" signature="7800:10540" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="7864:8099" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="8157:8263" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="8355:8501" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="8384:8487" ph="/* opt.Filters.Add(typeof(MyExceptionFilter)); ... */" />
+            <marker date="1514705872278" expanded="true" signature="8562:9073" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="9126:9251" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="9303:10498" ph="/* services.Configure&lt;MvcOptions&gt;(options =&gt; ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/Controllers/BaseController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Code/Dependency/DependencyRegistrar.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="14" column="26" lean-forward="true" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Data/Context/EapDbContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Data/Context/IndependentDbContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="27" column="46" lean-forward="false" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.config/NuGet/NuGet.Config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/Controllers/BaseController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="12" column="0" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Data/Context/EapDbContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Data/Context/IndependentDbContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="336">
+          <caret line="27" column="46" lean-forward="false" selection-start-line="27" selection-start-column="46" selection-end-line="27" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Code/Dependency/DependencyRegistrar.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="14" column="26" lean-forward="false" selection-start-line="14" selection-start-column="26" selection-end-line="14" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.config/NuGet/NuGet.Config">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc/wwwroot/abpSource/app.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-470">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc/wwwroot/abpSource/app/component/form/AbpForm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="3" column="13" lean-forward="false" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Code/Util/ReflectionUtil.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-5200">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/Infrastructure/EapCommonStartup.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Code/Infrastructure/EapEngine.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="96" column="12" lean-forward="false" selection-start-line="96" selection-start-column="12" selection-end-line="96" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Data/Dependency/DependencyRegistrar.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="241">
+          <caret line="34" column="12" lean-forward="false" selection-start-line="34" selection-start-column="12" selection-end-line="34" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc/Areas/Sys/Controllers/ServerConfigController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc/Areas/Sys/Controllers/MessageController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1514699854005" expanded="true" signature="6:424" ph="..." />
+            <marker date="1514699854005" expanded="true" signature="548:2408" ph="{...}" />
+            <marker date="1514699854005" expanded="true" signature="563:616" ph="/// 消息服务 ... " />
+            <marker date="1514699854005" expanded="true" signature="861:1004" ph="{...}" />
+            <marker date="1514699854005" expanded="true" signature="1014:1101" ph="/// 获取我的消息 ... " />
+            <marker date="1514699854005" expanded="true" signature="1144:1536" ph="{...}" />
+            <marker date="1514699854005" expanded="true" signature="1658:1988" ph="{...}" />
+            <marker date="1514699854005" expanded="true" signature="2094:2401" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/Mvc/Filters/LoginFilter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1514699853975" expanded="true" signature="6:372" ph="..." />
+            <marker date="1514699853975" expanded="true" signature="428:1574" ph="{...}" />
+            <marker date="1514699853975" expanded="true" signature="475:1572" ph="{...}" />
+            <marker date="1514699853975" expanded="true" signature="549:569" ph="{...}" />
+            <marker date="1514699853975" expanded="true" signature="640:1563" ph="{...}" />
+            <marker date="1514699853975" expanded="true" signature="802:1553" ph="{...}" />
+            <marker date="1514699853975" expanded="true" signature="996:1539" ph="{...}" />
+            <marker date="1514699853975" expanded="true" signature="1188:1520" ph="{...}" />
+            <marker date="1514699853975" expanded="true" signature="1295:1495" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/Mvc/Filters/MyExceptionFilter.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="17" column="12" lean-forward="false" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
+          <folding>
+            <marker date="1514699853976" expanded="true" signature="6:238" ph="..." />
+            <marker date="1514699853976" expanded="true" signature="294:1540" ph="{...}" />
+            <marker date="1514699853976" expanded="true" signature="358:1538" ph="{...}" />
+            <marker date="1514699853976" expanded="true" signature="431:1530" ph="{...}" />
+            <marker date="1514699853976" expanded="true" signature="812:1052" ph="/* ajax请求 ... */" />
+            <marker date="1514699853976" expanded="true" signature="1068:1233" ph="/* var logger = EngineContext.Current.Resolve&lt;ILogger&lt;MyExceptionFilter&gt;&gt;(); ... */" />
+            <marker date="1514699853976" expanded="true" signature="1418:1518" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/Mvc/Attributes/AutoTransactionAttribute.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="864">
+          <caret line="63" column="36" lean-forward="false" selection-start-line="63" selection-start-column="36" selection-end-line="63" selection-end-column="36" />
+          <folding>
+            <marker date="1514699853975" expanded="false" signature="7:318" ph="..." />
+            <marker date="1514699853975" expanded="true" signature="377:2102" ph="{...}" />
+            <marker date="1514699853975" expanded="true" signature="448:2100" ph="{...}" />
+            <marker date="1514699853975" expanded="true" signature="557:627" ph="{...}" />
+            <marker date="1514699853975" expanded="true" signature="637:692" ph="/// 事务隔离级别 ... " />
+            <marker date="1514699853975" expanded="true" signature="820:1808" ph="{...}" />
+            <marker date="1514699853975" expanded="true" signature="1031:1713" ph="{...}" />
+            <marker date="1514699853975" expanded="true" signature="1155:1267" ph="{...}" />
+            <marker date="1514699853975" expanded="true" signature="1730:1796" ph="{...}" />
+            <marker date="1514699853975" expanded="true" signature="1879:2094" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/Infrastructure/Extensions/ServiceCollectionExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2944">
+          <caret line="198" column="25" lean-forward="false" selection-start-line="198" selection-start-column="25" selection-end-line="198" selection-end-column="25" />
+          <folding>
+            <marker date="1514705872278" expanded="false" signature="6:540" ph="..." />
+            <marker date="1514705872278" expanded="true" signature="610:10550" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="617:701" ph="/// Represents extensions of IServiceCollection ... " />
+            <marker date="1514705872278" expanded="true" signature="753:10548" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="768:1101" ph="/// Add services to the application and configure service provider ... " />
+            <marker date="1514705872278" expanded="true" signature="1221:2324" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="1244:1567" ph="/* add NopConfig configuration parameters ... */" />
+            <marker date="1514705872278" expanded="true" signature="1840:2314" ph="/* if (DataSettingsHelper.DatabaseIsInstalled()) ... */" />
+            <marker date="1514705872278" expanded="true" signature="2334:2781" ph="/// Create, bind and register as service the specified configuration parameters  ... " />
+            <marker date="1514705872278" expanded="true" signature="2936:3474" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="3254:3393" ph="/* bind it to the appropriate section of configuration ... */" />
+            <marker date="1514705872278" expanded="true" signature="3484:3638" ph="/// Register HttpContextAccessor ... " />
+            <marker date="1514705872278" expanded="true" signature="3722:3822" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="3832:4005" ph="/// Adds services required for anti-forgery support ... " />
+            <marker date="1514705872278" expanded="true" signature="4081:4271" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="4173:4259" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="4281:4459" ph="/// Adds services required for application session state ... " />
+            <marker date="1514705872278" expanded="true" signature="4564:5054" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="4588:4868" ph="/* services.AddDistributedRedisCache(option =&gt; ... */" />
+            <marker date="1514705872278" expanded="true" signature="4912:5042" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="5066:5219" ph="/// Adds authentication service ... " />
+            <marker date="1514705872278" expanded="true" signature="5301:7475" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="5324:7465" ph="/* set default authentication schemes ... */" />
+            <marker date="1514705872278" expanded="true" signature="7485:7722" ph="/// Add and configure MVC for the application ... " />
+            <marker date="1514705872278" expanded="true" signature="7800:10540" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="7864:8099" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="8157:8263" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="8355:8501" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="8384:8487" ph="/* opt.Filters.Add(typeof(MyExceptionFilter)); ... */" />
+            <marker date="1514705872278" expanded="true" signature="8562:9073" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="9126:9251" ph="{...}" />
+            <marker date="1514705872278" expanded="true" signature="9303:10498" ph="/* services.Configure&lt;MvcOptions&gt;(options =&gt; ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc.Framework/Infrastructure/Extensions/ApplicationBuilderExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <marker date="1514699853974" expanded="false" signature="7:293" ph="..." />
+            <marker date="1514699853974" expanded="true" signature="363:3214" ph="{...}" />
+            <marker date="1514699853974" expanded="true" signature="370:455" ph="/// Represents extensions of IApplicationBuilder ... " />
+            <marker date="1514699853974" expanded="true" signature="508:3212" ph="{...}" />
+            <marker date="1514699853974" expanded="true" signature="523:723" ph="/// Configure the application HTTP request pipeline ... " />
+            <marker date="1514699853974" expanded="true" signature="813:906" ph="{...}" />
+            <marker date="1514699853974" expanded="true" signature="917:1092" ph="/// Add exception handling ... " />
+            <marker date="1514699853974" expanded="true" signature="1175:1237" ph="{...}" />
+            <marker date="1514699853974" expanded="true" signature="1247:1422" ph="/// Add exception handling ... " />
+            <marker date="1514699853974" expanded="true" signature="1510:2100" ph="{...}" />
+            <marker date="1514699853974" expanded="true" signature="1855:1986" ph="{...}" />
+            <marker date="1514699853974" expanded="true" signature="2003:2090" ph="{...}" />
+            <marker date="1514699853974" expanded="true" signature="2110:2285" ph="/// Add exception handling ... " />
+            <marker date="1514699853974" expanded="true" signature="2365:2423" ph="{...}" />
+            <marker date="1514699853974" expanded="true" signature="2436:2610" ph="/// Configure MVC routing ... " />
+            <marker date="1514699853974" expanded="true" signature="2685:3204" ph="{...}" />
+            <marker date="1514699853974" expanded="true" signature="2703:2814" ph="/* application.UseCors(builder =&gt; ... */" />
+            <marker date="1514699853974" expanded="true" signature="2862:3173" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc/appsettings.Development.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="160">
+          <caret line="10" column="96" lean-forward="false" selection-start-line="10" selection-start-column="96" selection-end-line="10" selection-end-column="96" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc/appsettings.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="128">
+          <caret line="8" column="26" lean-forward="false" selection-start-line="8" selection-start-column="26" selection-end-line="8" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc/Areas/Sys/Controllers/MenuController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="23" column="38" lean-forward="false" selection-start-line="23" selection-start-column="38" selection-end-line="23" selection-end-column="38" />
+          <folding>
+            <marker date="1514699854005" expanded="false" signature="6:277" ph="..." />
+            <marker date="1514699854005" expanded="true" signature="394:961" ph="{...}" />
+            <marker date="1514699854005" expanded="true" signature="546:639" ph="{...}" />
+            <marker date="1514699854005" expanded="true" signature="722:955" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc/Areas/MyController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="48">
+          <caret line="17" column="38" lean-forward="false" selection-start-line="17" selection-start-column="38" selection-end-line="17" selection-end-column="38" />
+          <folding>
+            <marker date="1514699854004" expanded="false" signature="7:441" ph="..." />
+            <marker date="1514699854004" expanded="true" signature="481:6588" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="557:5960" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="573:628" ph="/// 存储操作对象 ... " />
+            <marker date="1514699854004" expanded="true" signature="762:1155" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="1255:1618" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="1717:2118" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="2188:3194" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="2565:2693" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="2710:2809" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="3271:3476" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="3549:5199" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="3657:3735" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="3814:3893" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="4014:4140" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="4207:4428" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="4445:4540" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="5238:5954" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="5407:5490" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="6021:6119" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="6149:6244" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="6305:6403" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="6433:6485" ph="{...}" />
+            <marker date="1514699854004" expanded="true" signature="6517:6586" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LiftNext.Framework.Mvc/Controllers/HomeController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="20" column="14" lean-forward="false" selection-start-line="20" selection-start-column="14" selection-end-line="20" selection-end-column="14" />
+          <folding>
+            <marker date="1514701811951" expanded="false" signature="6:117" ph="..." />
+            <marker date="1514701811951" expanded="true" signature="163:757" ph="{...}" />
+            <marker date="1514701811951" expanded="true" signature="210:755" ph="{...}" />
+            <marker date="1514701811951" expanded="true" signature="311:358" ph="{...}" />
+            <marker date="1514701811951" expanded="true" signature="395:457" ph="{...}" />
+            <marker date="1514701811951" expanded="true" signature="494:610" ph="{...}" />
+            <marker date="1514701811951" expanded="true" signature="649:749" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

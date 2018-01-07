@@ -2,10 +2,24 @@ Ext.define('abp.component.page.AppPageCtl', {
     extend: 'Ext.app.ViewController',
     alias: 'controller.apppagectl',
     control: {
-        '*': {
-            switchPage: 'onSwitchPage'
-        },
+        '#':{
+            beforeshow:'onbeforeshow'
+        }
 
+    },
+    onbeforeshow:function(view){
+        console.log('onbeforeshow',view);
+        var hashObj=view.hashObj;
+        var viewName=hashObj.viewName;
+        var layout = view.getLayout();
+      
+        if(viewName&&viewName==='form')
+        {
+            var activeItem = layout.setActiveItem(1);
+        }
+        else{
+            var activeItem = layout.setActiveItem(0);
+        }
     },
 
     onSwitchPage: function (item, data) {

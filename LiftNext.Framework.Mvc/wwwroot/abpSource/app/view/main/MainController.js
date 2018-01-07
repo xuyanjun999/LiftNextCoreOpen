@@ -9,6 +9,32 @@ Ext.define('abp.view.main.MainController', {
 
     alias: 'controller.main',
 
+    listen: {
+        controller: {
+            '#': {
+                unmatchedroute: 'onUnmatchedRoute'
+            }
+        }
+    },
+
+    onUnmatchedRoute: function(hash) {
+        var me=this;
+        var view=me.getView();
+        var hashObj=Ext.Object.fromQueryString(hash);
+        console.log('Unmatched', hashObj);
+        
+        if(hashObj.app){
+            var appView=Ext.create(hashObj.app,{
+                hashObj:hashObj
+            });
+           var maintab= me.lookup('maintab')
+            //view.suspendLayout();
+            maintab.add(appView).show();
+            //view.updateLayout();
+        }
+        // Do something...
+    },
+
     onItemSelected: function (sender, record) {
         Ext.Msg.confirm('Confirm', 'Are you sure?', 'onConfirm', this);
     },
