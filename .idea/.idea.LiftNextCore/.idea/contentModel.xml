@@ -1,8 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ContentModelStore">
+<<<<<<< HEAD
     <e p="C:\Users\xuyan\.Rider2017.3\system\resharper-host\local\Transient\ReSharperHost\v11\SolutionCaches\_LiftNextCore.-100885584.00" t="ExcludeRecursive" />
     <e p="F:\Visual Studio 2017\Projects\LiftNextCoreOpen" t="IncludeFlat">
+=======
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+>>>>>>> 40118efc8b0728767e5259ad4f4af7b6a1199a39
       <e p="Libraries" t="Include" />
       <e p="LiftNext.Framework.Code" t="IncludeRecursive">
         <e p="bin" t="ExcludeRecursive" />
@@ -789,8 +793,21 @@
                   <e p="ListPageCtl.js" t="Include" />
                 </e>
               </e>
+<<<<<<< HEAD
               <e p="model" t="Include">
                 <e p="Readme.md" t="Include" />
+=======
+              <e p="data" t="Include">
+                <e p="JsonWriter.js" t="Include" />
+                <e p="Proxy.js" t="Include" />
+                <e p="Store.js" t="Include" />
+              </e>
+              <e p="model" t="Include">
+                <e p="Readme.md" t="Include" />
+                <e p="Sys" t="Include">
+                  <e p="Menu.js" t="Include" />
+                </e>
+>>>>>>> 40118efc8b0728767e5259ad4f4af7b6a1199a39
               </e>
               <e p="Readme.md" t="Include" />
               <e p="store" t="Include">
@@ -1770,6 +1787,16 @@
                     <e p="Main.js" t="Include" />
                     <e p="Tree.js" t="Include" />
                   </e>
+<<<<<<< HEAD
+=======
+                  <e p="Sys" t="Include">
+                    <e p="menu" t="Include">
+                      <e p="Form.js" t="Include" />
+                      <e p="List.js" t="Include" />
+                      <e p="Main.js" t="Include" />
+                    </e>
+                  </e>
+>>>>>>> 40118efc8b0728767e5259ad4f4af7b6a1199a39
                 </e>
               </e>
             </e>
@@ -12102,5 +12129,9 @@
       <e p="packages" t="ExcludeRecursive" />
       <e p="Presentation" t="Include" />
     </e>
+<<<<<<< HEAD
+=======
+    <e p="$USER_HOME$/Library/Caches/Rider2017.3/resharper-host/local/Transient/ReSharperHost/v11/SolutionCaches/_LiftNextCore.-1988593815.00" t="ExcludeRecursive" />
+>>>>>>> 40118efc8b0728767e5259ad4f4af7b6a1199a39
   </component>
 </project>

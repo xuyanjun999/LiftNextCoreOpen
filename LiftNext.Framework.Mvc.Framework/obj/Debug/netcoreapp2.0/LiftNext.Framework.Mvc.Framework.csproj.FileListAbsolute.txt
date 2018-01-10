@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 C:\SGProject\LiftNextCoreOpen\LiftNext.Framework.Mvc.Framework\bin\Debug\netcoreapp2.0\LiftNext.Framework.Mvc.Framework.deps.json
 C:\SGProject\LiftNextCoreOpen\LiftNext.Framework.Mvc.Framework\bin\Debug\netcoreapp2.0\LiftNext.Framework.Mvc.Framework.dll
 C:\SGProject\LiftNextCoreOpen\LiftNext.Framework.Mvc.Framework\bin\Debug\netcoreapp2.0\LiftNext.Framework.Mvc.Framework.pdb
@@ -28,3 +29,34 @@ F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Mvc.Framework
 F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Mvc.Framework\obj\Debug\netcoreapp2.0\LiftNext.Framework.Mvc.Framework.AssemblyInfo.cs
 F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Mvc.Framework\obj\Debug\netcoreapp2.0\LiftNext.Framework.Mvc.Framework.dll
 F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Mvc.Framework\obj\Debug\netcoreapp2.0\LiftNext.Framework.Mvc.Framework.pdb
+=======
+C:/SGProject/LiftNextCoreOpen/LiftNext.Framework.Mvc.Framework/bin/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.Framework.deps.json
+C:/SGProject/LiftNextCoreOpen/LiftNext.Framework.Mvc.Framework/bin/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.Framework.dll
+C:/SGProject/LiftNextCoreOpen/LiftNext.Framework.Mvc.Framework/bin/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.Framework.pdb
+C:/SGProject/LiftNextCoreOpen/LiftNext.Framework.Mvc.Framework/bin/Debug/netcoreapp2.0/LiftNext.Framework.Code.dll
+C:/SGProject/LiftNextCoreOpen/LiftNext.Framework.Mvc.Framework/bin/Debug/netcoreapp2.0/LiftNext.Framework.Data.dll
+C:/SGProject/LiftNextCoreOpen/LiftNext.Framework.Mvc.Framework/bin/Debug/netcoreapp2.0/LiftNext.Framework.Domain.dll
+C:/SGProject/LiftNextCoreOpen/LiftNext.Framework.Mvc.Framework/bin/Debug/netcoreapp2.0/LiftNext.Framework.Code.pdb
+C:/SGProject/LiftNextCoreOpen/LiftNext.Framework.Mvc.Framework/bin/Debug/netcoreapp2.0/LiftNext.Framework.Data.pdb
+C:/SGProject/LiftNextCoreOpen/LiftNext.Framework.Mvc.Framework/bin/Debug/netcoreapp2.0/LiftNext.Framework.Domain.pdb
+C:/SGProject/LiftNextCoreOpen/LiftNext.Framework.Mvc.Framework/obj/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.Framework.csprojResolveAssemblyReference.cache
+C:/SGProject/LiftNextCoreOpen/LiftNext.Framework.Mvc.Framework/obj/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.Framework.csproj.CoreCompileInputs.cache
+C:/SGProject/LiftNextCoreOpen/LiftNext.Framework.Mvc.Framework/obj/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.Framework.AssemblyInfoInputs.cache
+C:/SGProject/LiftNextCoreOpen/LiftNext.Framework.Mvc.Framework/obj/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.Framework.AssemblyInfo.cs
+C:/SGProject/LiftNextCoreOpen/LiftNext.Framework.Mvc.Framework/obj/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.Framework.dll
+C:/SGProject/LiftNextCoreOpen/LiftNext.Framework.Mvc.Framework/obj/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.Framework.pdb
+/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc.Framework/bin/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.Framework.deps.json
+/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc.Framework/bin/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.Framework.dll
+/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc.Framework/bin/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.Framework.pdb
+/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc.Framework/bin/Debug/netcoreapp2.0/LiftNext.Framework.Code.dll
+/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc.Framework/bin/Debug/netcoreapp2.0/LiftNext.Framework.Data.dll
+/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc.Framework/bin/Debug/netcoreapp2.0/LiftNext.Framework.Domain.dll
+/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc.Framework/bin/Debug/netcoreapp2.0/LiftNext.Framework.Code.pdb
+/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc.Framework/bin/Debug/netcoreapp2.0/LiftNext.Framework.Data.pdb
+/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc.Framework/bin/Debug/netcoreapp2.0/LiftNext.Framework.Domain.pdb
+/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc.Framework/obj/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.Framework.csproj.CoreCompileInputs.cache
+/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc.Framework/obj/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.Framework.AssemblyInfoInputs.cache
+/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc.Framework/obj/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.Framework.AssemblyInfo.cs
+/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc.Framework/obj/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.Framework.dll
+/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc.Framework/obj/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.Framework.pdb
+>>>>>>> 40118efc8b0728767e5259ad4f4af7b6a1199a39

@@ -18,7 +18,24 @@ Ext.define('abp.view.main.MainController', {
     },
 
     onUnmatchedRoute: function(hash) {
+<<<<<<< HEAD
         console.log('Unmatched', hash);
+=======
+        var me=this;
+        var view=me.getView();
+        var hashObj=Ext.Object.fromQueryString(hash);
+        console.log('Unmatched', hashObj);
+        
+        if(hashObj.app){
+            var appView=Ext.create(hashObj.app,{
+                hashObj:hashObj
+            });
+           var maintab= me.lookup('maintab')
+            //view.suspendLayout();
+            maintab.add(appView).show();
+            //view.updateLayout();
+        }
+>>>>>>> 40118efc8b0728767e5259ad4f4af7b6a1199a39
         // Do something...
     },
 

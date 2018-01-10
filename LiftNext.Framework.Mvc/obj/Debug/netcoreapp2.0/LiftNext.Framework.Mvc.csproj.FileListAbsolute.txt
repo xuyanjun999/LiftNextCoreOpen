@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Mvc\bin\Debug\netcoreapp2.0\nlog.config
 F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Mvc\bin\Debug\netcoreapp2.0\LiftNext.Framework.Mvc.deps.json
 F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Mvc\bin\Debug\netcoreapp2.0\LiftNext.Framework.Mvc.runtimeconfig.json
@@ -21,3 +22,27 @@ F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Mvc\obj\Debug
 F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Mvc\obj\Debug\netcoreapp2.0\LiftNext.Framework.Mvc.AssemblyInfo.cs
 F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Mvc\obj\Debug\netcoreapp2.0\LiftNext.Framework.Mvc.dll
 F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Mvc\obj\Debug\netcoreapp2.0\LiftNext.Framework.Mvc.pdb
+=======
+/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc/bin/Debug/netcoreapp2.0/nlog.config
+/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc/bin/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.deps.json
+/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc/bin/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.runtimeconfig.json
+/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc/bin/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.runtimeconfig.dev.json
+/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc/bin/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.dll
+/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc/bin/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.pdb
+/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc/bin/Debug/netcoreapp2.0/LiftNext.Framework.Code.dll
+/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc/bin/Debug/netcoreapp2.0/LiftNext.Framework.Data.dll
+/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc/bin/Debug/netcoreapp2.0/LiftNext.Framework.Domain.dll
+/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc/bin/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.Framework.dll
+/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc/bin/Debug/netcoreapp2.0/LiftNext.Framework.Service.dll
+/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc/bin/Debug/netcoreapp2.0/LiftNext.Framework.Code.pdb
+/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc/bin/Debug/netcoreapp2.0/LiftNext.Framework.Data.pdb
+/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc/bin/Debug/netcoreapp2.0/LiftNext.Framework.Domain.pdb
+/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc/bin/Debug/netcoreapp2.0/LiftNext.Framework.Mapping.pdb
+/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc/bin/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.Framework.pdb
+/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc/bin/Debug/netcoreapp2.0/LiftNext.Framework.Service.pdb
+/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc/obj/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.csproj.CoreCompileInputs.cache
+/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc/obj/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.AssemblyInfoInputs.cache
+/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc/obj/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.AssemblyInfo.cs
+/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc/obj/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.dll
+/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc/obj/Debug/netcoreapp2.0/LiftNext.Framework.Mvc.pdb
+>>>>>>> 40118efc8b0728767e5259ad4f4af7b6a1199a39

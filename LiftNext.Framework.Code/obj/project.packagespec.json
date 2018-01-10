@@ -1,6 +1,7 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
+<<<<<<< HEAD
     "projectUniqueName": "F:\\Visual Studio 2017\\Projects\\LiftNextCoreOpen\\LiftNext.Framework.Code\\LiftNext.Framework.Code.csproj",
     "projectName": "LiftNext.Framework.Code",
     "projectPath": "F:\\Visual Studio 2017\\Projects\\LiftNextCoreOpen\\LiftNext.Framework.Code\\LiftNext.Framework.Code.csproj",
@@ -8,6 +9,15 @@
     "projectStyle": "PackageReference",
     "fallbackFolders": [
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+=======
+    "projectUniqueName": "/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Code/LiftNext.Framework.Code.csproj",
+    "projectName": "LiftNext.Framework.Code",
+    "projectPath": "/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Code/LiftNext.Framework.Code.csproj",
+    "outputPath": "/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Code/obj/",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+>>>>>>> 40118efc8b0728767e5259ad4f4af7b6a1199a39
     ],
     "originalTargetFrameworks": [
       "netcoreapp2.0"

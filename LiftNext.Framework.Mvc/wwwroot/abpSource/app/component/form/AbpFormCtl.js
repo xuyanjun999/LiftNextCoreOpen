@@ -1,6 +1,7 @@
 Ext.define('abp.component.form.AbpFormCtl', {
     extend: 'Ext.app.ViewController',
     alias: 'controller.abpformctl',
+<<<<<<< HEAD
 
     routes : {
         'form/:id' : 'onUsers'
@@ -12,6 +13,11 @@ Ext.define('abp.component.form.AbpFormCtl', {
         },
         '#':{
             activate:'onactivate'
+=======
+    control:{
+          'button[action]':{
+            click:'onActionButtonClick',
+>>>>>>> 40118efc8b0728767e5259ad4f4af7b6a1199a39
         }
     },
 
@@ -22,6 +28,7 @@ Ext.define('abp.component.form.AbpFormCtl', {
         console.log('onactivate',this.getView().formPage);
     },
 
+<<<<<<< HEAD
     onActionButtonClick: function (actionBtn) {
         var me = this;
         var actionName = actionBtn.action;
@@ -29,6 +36,34 @@ Ext.define('abp.component.form.AbpFormCtl', {
         var actionFunName = Ext.String.format('on{0}_excute', actionName);
         if (Ext.isFunction(view[actionFunName])) {
             var fun = view[actionFunName];
+=======
+    getHashObj: function () {
+        var me = this;
+        var view = me.getView();
+        var hashObj = view.formPage.appPage.hashObj;
+        return hashObj;
+    },
+    onback_excute: function () {
+        debugger
+        var me = this;
+        var hashObj = me.getHashObj();
+        var hashJson = Ext.apply(hashObj, {
+            viewName: 'list'
+        });
+
+        this.redirectTo(Ext.Object.toQueryString(hashJson));
+        //abp.msg.success('success');
+        //this.getView().fireEvent('switchPage',1,'abc');
+    },
+
+    onActionButtonClick:function(actionBtn){
+        var me=this;
+        var actionName=actionBtn.action;
+        var view=me.getView();
+        var actionFunName=Ext.String.format('on{0}_excute',actionName);
+        if(Ext.isFunction(view[actionFunName])){
+            var fun=view[actionFunName];
+>>>>>>> 40118efc8b0728767e5259ad4f4af7b6a1199a39
             fun.call(view);
             return;
         }
@@ -148,10 +183,13 @@ Ext.define('abp.component.form.AbpFormCtl', {
             }
         });
         view.mask('正在保存中...');
+<<<<<<< HEAD
     },
 
     onback_excute: function () {
         console.log('back', this);
         this.getView().fireEvent('switchPage', 0);
+=======
+>>>>>>> 40118efc8b0728767e5259ad4f4af7b6a1199a39
     }
 });

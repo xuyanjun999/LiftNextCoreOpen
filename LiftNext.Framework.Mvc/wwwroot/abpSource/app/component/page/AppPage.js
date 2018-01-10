@@ -7,7 +7,10 @@ Ext.define('abp.component.page.AppPage', {
        
     ],
     controller: 'apppagectl',
-    config: {},
+    config: {
+        hashObj:null,
+        defaultView:'list'
+    },
 
     initComponent: function () {
         var me = this;
