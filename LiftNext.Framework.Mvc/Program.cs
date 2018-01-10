@@ -21,7 +21,7 @@ namespace LiftNext.Framework.Mvc
 
         public static IWebHost BuildWebHost(string[] args) =>
             WebHost.CreateDefaultBuilder(args)
-               // .UseUrls("http://192.168.1.133:7790")
+                .UseUrls("http://localhost:5000")
                 .UseStartup<Startup>()
                 .UseNLog()
                 .Build();

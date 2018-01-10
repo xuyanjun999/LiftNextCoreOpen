@@ -8,6 +8,7 @@ Ext.define('abp.Application', {
     
     name: 'abp',
 
+    defaultToken : 'home',
     //glyphFontFamily:'FontAwesome',
 
     stores: [

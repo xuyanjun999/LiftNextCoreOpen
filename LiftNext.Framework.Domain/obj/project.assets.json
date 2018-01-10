@@ -9524,26 +9524,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\xuyanjun\\.nuget\\packages\\": {},
+    "C:\\Users\\xuyan\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\SGProject\\LiftNextCoreOpen\\LiftNext.Framework.Domain\\LiftNext.Framework.Domain.csproj",
+      "projectUniqueName": "F:\\Visual Studio 2017\\Projects\\LiftNextCoreOpen\\LiftNext.Framework.Domain\\LiftNext.Framework.Domain.csproj",
       "projectName": "LiftNext.Framework.Domain",
-      "projectPath": "C:\\SGProject\\LiftNextCoreOpen\\LiftNext.Framework.Domain\\LiftNext.Framework.Domain.csproj",
-      "packagesPath": "C:\\Users\\xuyanjun\\.nuget\\packages\\",
-      "outputPath": "C:\\SGProject\\LiftNextCoreOpen\\LiftNext.Framework.Domain\\obj\\",
+      "projectPath": "F:\\Visual Studio 2017\\Projects\\LiftNextCoreOpen\\LiftNext.Framework.Domain\\LiftNext.Framework.Domain.csproj",
+      "packagesPath": "C:\\Users\\xuyan\\.nuget\\packages\\",
+      "outputPath": "F:\\Visual Studio 2017\\Projects\\LiftNextCoreOpen\\LiftNext.Framework.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\xuyanjun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\xuyan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -9556,11 +9553,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\SGProject\\LiftNextCoreOpen\\LiftNext.Framework.Code\\LiftNext.Framework.Code.csproj": {
-              "projectPath": "C:\\SGProject\\LiftNextCoreOpen\\LiftNext.Framework.Code\\LiftNext.Framework.Code.csproj"
+            "F:\\Visual Studio 2017\\Projects\\LiftNextCoreOpen\\LiftNext.Framework.Code\\LiftNext.Framework.Code.csproj": {
+              "projectPath": "F:\\Visual Studio 2017\\Projects\\LiftNextCoreOpen\\LiftNext.Framework.Code\\LiftNext.Framework.Code.csproj"
             },
-            "C:\\SGProject\\LiftNextCoreOpen\\LiftNext.Framework.Data\\LiftNext.Framework.Data.csproj": {
-              "projectPath": "C:\\SGProject\\LiftNextCoreOpen\\LiftNext.Framework.Data\\LiftNext.Framework.Data.csproj"
+            "F:\\Visual Studio 2017\\Projects\\LiftNextCoreOpen\\LiftNext.Framework.Data\\LiftNext.Framework.Data.csproj": {
+              "projectPath": "F:\\Visual Studio 2017\\Projects\\LiftNextCoreOpen\\LiftNext.Framework.Data\\LiftNext.Framework.Data.csproj"
             }
           }
         }

@@ -1,0 +1,54 @@
+2018-01-03 12:54:00.1194 LiftNext.Framework.Mvc.Framework.Mvc.Filters.MyExceptionFilter Object reference not set to an instance of an object. StackTrace:   at LiftNext.Framework.Code.Util.ReflectionUtil.TrimString(Object obj) in F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Code\Util\ReflectionUtil.cs:line 267
+   at LiftNext.Framework.Mvc.Areas.MyController`1.Create(CreateModel`1 createModel) in F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Mvc\Areas\MyController.cs:line 43
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeActionMethodAsync>d__12.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeNextActionFilterAsync>d__10.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeInnerFilterAsync>d__14.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.<InvokeNextExceptionFilterAsync>d__23.MoveNext()
+2018-01-03 12:56:46.4640 LiftNext.Framework.Mvc.Framework.Mvc.Filters.MyExceptionFilter Object reference not set to an instance of an object. StackTrace:   at LiftNext.Framework.Code.Util.ReflectionUtil.TrimString(Object obj) in F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Code\Util\ReflectionUtil.cs:line 267
+   at LiftNext.Framework.Mvc.Areas.MyController`1.Create(CreateModel`1 createModel) in F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Mvc\Areas\MyController.cs:line 43
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeActionMethodAsync>d__12.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeNextActionFilterAsync>d__10.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeInnerFilterAsync>d__14.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.<InvokeNextExceptionFilterAsync>d__23.MoveNext()
+2018-01-03 12:59:20.7061 LiftNext.Framework.Mvc.Framework.Mvc.Filters.MyExceptionFilter Object reference not set to an instance of an object. StackTrace:   at LiftNext.Framework.Code.Util.ReflectionUtil.TrimString(Object obj) in F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Code\Util\ReflectionUtil.cs:line 267
+   at LiftNext.Framework.Mvc.Areas.MyController`1.Create(CreateModel`1 createModel) in F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Mvc\Areas\MyController.cs:line 43
+   at lambda_method(Closure , Object , Object[] )
+   at Microsoft.Extensions.Internal.ObjectMethodExecutor.Execute(Object target, Object[] parameters)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeActionMethodAsync>d__12.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeNextActionFilterAsync>d__10.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Rethrow(ActionExecutedContext context)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.Next(State& next, Scope& scope, Object& state, Boolean& isCompleted)
+   at Microsoft.AspNetCore.Mvc.Internal.ControllerActionInvoker.<InvokeInnerFilterAsync>d__14.MoveNext()
+--- End of stack trace from previous location where exception was thrown ---
+   at System.Runtime.ExceptionServices.ExceptionDispatchInfo.Throw()
+   at System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   at Microsoft.AspNetCore.Mvc.Internal.ResourceInvoker.<InvokeNextExceptionFilterAsync>d__23.MoveNext()

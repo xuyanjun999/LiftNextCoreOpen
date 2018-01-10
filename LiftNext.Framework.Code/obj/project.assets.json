@@ -6831,26 +6831,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\xuyanjun\\.nuget\\packages\\": {},
+    "C:\\Users\\xuyan\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\SGProject\\LiftNextCoreOpen\\LiftNext.Framework.Code\\LiftNext.Framework.Code.csproj",
+      "projectUniqueName": "F:\\Visual Studio 2017\\Projects\\LiftNextCoreOpen\\LiftNext.Framework.Code\\LiftNext.Framework.Code.csproj",
       "projectName": "LiftNext.Framework.Code",
-      "projectPath": "C:\\SGProject\\LiftNextCoreOpen\\LiftNext.Framework.Code\\LiftNext.Framework.Code.csproj",
-      "packagesPath": "C:\\Users\\xuyanjun\\.nuget\\packages\\",
-      "outputPath": "C:\\SGProject\\LiftNextCoreOpen\\LiftNext.Framework.Code\\obj\\",
+      "projectPath": "F:\\Visual Studio 2017\\Projects\\LiftNextCoreOpen\\LiftNext.Framework.Code\\LiftNext.Framework.Code.csproj",
+      "packagesPath": "C:\\Users\\xuyan\\.nuget\\packages\\",
+      "outputPath": "F:\\Visual Studio 2017\\Projects\\LiftNextCoreOpen\\LiftNext.Framework.Code\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\xuyanjun\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\xuyan\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

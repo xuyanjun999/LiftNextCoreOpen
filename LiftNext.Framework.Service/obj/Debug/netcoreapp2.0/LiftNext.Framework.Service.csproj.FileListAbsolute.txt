@@ -13,3 +13,18 @@ C:\SGProject\LiftNextCoreOpen\LiftNext.Framework.Service\obj\Debug\netcoreapp2.0
 C:\SGProject\LiftNextCoreOpen\LiftNext.Framework.Service\obj\Debug\netcoreapp2.0\LiftNext.Framework.Service.AssemblyInfo.cs
 C:\SGProject\LiftNextCoreOpen\LiftNext.Framework.Service\obj\Debug\netcoreapp2.0\LiftNext.Framework.Service.dll
 C:\SGProject\LiftNextCoreOpen\LiftNext.Framework.Service\obj\Debug\netcoreapp2.0\LiftNext.Framework.Service.pdb
+F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Service\bin\Debug\netcoreapp2.0\LiftNext.Framework.Service.deps.json
+F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Service\bin\Debug\netcoreapp2.0\LiftNext.Framework.Service.dll
+F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Service\bin\Debug\netcoreapp2.0\LiftNext.Framework.Service.pdb
+F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Service\bin\Debug\netcoreapp2.0\LiftNext.Framework.Code.dll
+F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Service\bin\Debug\netcoreapp2.0\LiftNext.Framework.Data.dll
+F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Service\bin\Debug\netcoreapp2.0\LiftNext.Framework.Domain.dll
+F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Service\bin\Debug\netcoreapp2.0\LiftNext.Framework.Data.pdb
+F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Service\bin\Debug\netcoreapp2.0\LiftNext.Framework.Domain.pdb
+F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Service\bin\Debug\netcoreapp2.0\LiftNext.Framework.Code.pdb
+F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Service\obj\Debug\netcoreapp2.0\LiftNext.Framework.Service.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Service\obj\Debug\netcoreapp2.0\LiftNext.Framework.Service.csproj.CoreCompileInputs.cache
+F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Service\obj\Debug\netcoreapp2.0\LiftNext.Framework.Service.AssemblyInfoInputs.cache
+F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Service\obj\Debug\netcoreapp2.0\LiftNext.Framework.Service.AssemblyInfo.cs
+F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Service\obj\Debug\netcoreapp2.0\LiftNext.Framework.Service.dll
+F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Service\obj\Debug\netcoreapp2.0\LiftNext.Framework.Service.pdb

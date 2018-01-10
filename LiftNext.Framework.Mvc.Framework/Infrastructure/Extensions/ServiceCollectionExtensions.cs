@@ -195,7 +195,7 @@ namespace LiftNext.Framework.Mvc.Framework.Infrastructure.Extensions
             var mvcBuilder = services.AddMvc(opt =>
             {
                 opt.Filters.Add(typeof(MyExceptionFilter));
-                opt.Filters.Add(typeof(LoginFilter));
+               // opt.Filters.Add(typeof(LoginFilter));
             });
 
             mvcBuilder.AddJsonOptions(opt =>

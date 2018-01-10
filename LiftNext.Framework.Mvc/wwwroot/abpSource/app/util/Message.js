@@ -32,6 +32,12 @@ Ext.define('abp.util.Message', {
             fn: cb
         });
     },
+    toast:function(message,title,align,iconCls){
+        title=title||'消息';
+        align=align||'t';
+        Ext.toast(message, title, align, iconCls);
+    }
+    
 },function(cls){
     //console.log('cls',cls)
     if(!abp.msg) abp.msg=new cls();

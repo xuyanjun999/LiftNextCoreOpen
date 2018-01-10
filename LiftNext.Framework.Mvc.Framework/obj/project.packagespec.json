@@ -1,0 +1,65 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "F:\\Visual Studio 2017\\Projects\\LiftNextCoreOpen\\LiftNext.Framework.Mvc.Framework\\LiftNext.Framework.Mvc.Framework.csproj",
+    "projectName": "LiftNext.Framework.Mvc.Framework",
+    "projectPath": "F:\\Visual Studio 2017\\Projects\\LiftNextCoreOpen\\LiftNext.Framework.Mvc.Framework\\LiftNext.Framework.Mvc.Framework.csproj",
+    "outputPath": "F:\\Visual Studio 2017\\Projects\\LiftNextCoreOpen\\LiftNext.Framework.Mvc.Framework\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {
+          "F:\\Visual Studio 2017\\Projects\\LiftNextCoreOpen\\LiftNext.Framework.Code\\LiftNext.Framework.Code.csproj": {
+            "projectPath": "F:\\Visual Studio 2017\\Projects\\LiftNextCoreOpen\\LiftNext.Framework.Code\\LiftNext.Framework.Code.csproj"
+          },
+          "F:\\Visual Studio 2017\\Projects\\LiftNextCoreOpen\\LiftNext.Framework.Data\\LiftNext.Framework.Data.csproj": {
+            "projectPath": "F:\\Visual Studio 2017\\Projects\\LiftNextCoreOpen\\LiftNext.Framework.Data\\LiftNext.Framework.Data.csproj"
+          },
+          "F:\\Visual Studio 2017\\Projects\\LiftNextCoreOpen\\LiftNext.Framework.Domain\\LiftNext.Framework.Domain.csproj": {
+            "projectPath": "F:\\Visual Studio 2017\\Projects\\LiftNextCoreOpen\\LiftNext.Framework.Domain\\LiftNext.Framework.Domain.csproj"
+          }
+        }
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "Microsoft.AspNetCore.All": {
+          "target": "Package",
+          "version": "[2.0.0, )"
+        },
+        "Microsoft.AspNetCore.Cors": {
+          "target": "Package",
+          "version": "[2.0.1, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        },
+        "NLog.Web.AspNetCore": {
+          "target": "Package",
+          "version": "[4.5.0-beta04, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

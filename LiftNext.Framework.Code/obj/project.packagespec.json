@@ -1,0 +1,79 @@
+﻿{
+  "version": "1.0.0",
+  "restore": {
+    "projectUniqueName": "F:\\Visual Studio 2017\\Projects\\LiftNextCoreOpen\\LiftNext.Framework.Code\\LiftNext.Framework.Code.csproj",
+    "projectName": "LiftNext.Framework.Code",
+    "projectPath": "F:\\Visual Studio 2017\\Projects\\LiftNextCoreOpen\\LiftNext.Framework.Code\\LiftNext.Framework.Code.csproj",
+    "outputPath": "F:\\Visual Studio 2017\\Projects\\LiftNextCoreOpen\\LiftNext.Framework.Code\\obj\\",
+    "projectStyle": "PackageReference",
+    "fallbackFolders": [
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ],
+    "originalTargetFrameworks": [
+      "netcoreapp2.0"
+    ],
+    "frameworks": {
+      "netcoreapp2.0": {
+        "projectReferences": {}
+      }
+    },
+    "warningProperties": {
+      "warnAsError": [
+        "NU1605"
+      ]
+    }
+  },
+  "frameworks": {
+    "netcoreapp2.0": {
+      "dependencies": {
+        "DotNetCore.NPOI": {
+          "target": "Package",
+          "version": "[1.0.2, )"
+        },
+        "EPPlus.Core": {
+          "target": "Package",
+          "version": "[1.5.4, )"
+        },
+        "Jint": {
+          "target": "Package",
+          "version": "[2.11.23, )"
+        },
+        "Microsoft.AspNetCore.Http.Extensions": {
+          "target": "Package",
+          "version": "[2.0.0, )"
+        },
+        "Microsoft.AspNetCore.Session": {
+          "target": "Package",
+          "version": "[2.0.0, )"
+        },
+        "Microsoft.Extensions.DependencyInjection": {
+          "target": "Package",
+          "version": "[2.0.0, )"
+        },
+        "Microsoft.Extensions.PlatformAbstractions": {
+          "target": "Package",
+          "version": "[1.1.0, )"
+        },
+        "Microsoft.NETCore.App": {
+          "suppressParent": "All",
+          "target": "Package",
+          "version": "[2.0.0, )",
+          "autoReferenced": true
+        },
+        "Newtonsoft.Json": {
+          "target": "Package",
+          "version": "[10.0.3, )"
+        },
+        "SixLabors.ImageSharp": {
+          "target": "Package",
+          "version": "[1.0.0-beta0001, )"
+        }
+      },
+      "imports": [
+        "net461"
+      ],
+      "assetTargetFallback": true,
+      "warn": true
+    }
+  }
+}

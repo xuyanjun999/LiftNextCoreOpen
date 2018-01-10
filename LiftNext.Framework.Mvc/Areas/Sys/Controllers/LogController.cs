@@ -1,5 +1,6 @@
 ﻿using LiftNext.Framework.Data.Repository;
 using LiftNext.Framework.Domain.Entity.Sys;
+using Microsoft.AspNetCore.Cors;
 using Microsoft.Extensions.Logging;
 using System;
 using System.Collections.Generic;
@@ -13,7 +14,6 @@ namespace LiftNext.Framework.Mvc.Areas.Sys.Controllers
 
 
         private readonly ILogger<LogController> Log;
-
         public LogController(ILogger<LogController> logger, IRepositoryBase repository)
         {
             this.Log = logger;

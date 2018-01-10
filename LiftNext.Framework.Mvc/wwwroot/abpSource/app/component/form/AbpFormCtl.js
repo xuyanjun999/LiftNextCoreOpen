@@ -1,137 +1,148 @@
-Ext.define('abp.component.form.AbpFormCtl',{
-    extend:'Ext.app.ViewController',
+Ext.define('abp.component.form.AbpFormCtl', {
+    extend: 'Ext.app.ViewController',
     alias: 'controller.abpformctl',
-    control:{
-          'button[action]':{
-            click:'onActionButtonClick',
-        },
-        '#':{
-            'switchto':'onSwitchTo'
-        }
-    },
-    onSwitchTo:function(record){
-        console.log('onSwitchTo');
+
+    routes : {
+        'form/:id' : 'onUsers'
     },
 
-    onActionButtonClick:function(actionBtn){
-        var me=this;
-        var actionName=actionBtn.action;
-        var view=me.getView();
-        var actionFunName=Ext.String.format('on{0}_excute',actionName);
-        if(Ext.isFunction(view[actionFunName])){
-            var fun=view[actionFunName];
+    control: {
+        'button[action]': {
+            click: 'onActionButtonClick',
+        },
+        '#':{
+            activate:'onactivate'
+        }
+    },
+
+    onUsers:function(id){
+        console.log("onUsers",id);
+    },
+    onactivate: function () {
+        console.log('onactivate',this.getView().formPage);
+    },
+
+    onActionButtonClick: function (actionBtn) {
+        var me = this;
+        var actionName = actionBtn.action;
+        var view = me.getView();
+        var actionFunName = Ext.String.format('on{0}_excute', actionName);
+        if (Ext.isFunction(view[actionFunName])) {
+            var fun = view[actionFunName];
             fun.call(view);
             return;
         }
-        if(Ext.isFunction(me[actionFunName])){
-            var fun=me[actionFunName];
+        if (Ext.isFunction(me[actionFunName])) {
+            var fun = me[actionFunName];
             fun.call(me);
             return;
         }
-        console.log(Ext.String.format('未找到对应的actionfunname:{0}',actionFunName));
+        console.log(Ext.String.format('未找到对应的actionfunname:{0}', actionFunName));
     },
 
-    onread_excute:function(){
-        var me=this;
+    onread_excute: function () {
+        var me = this;
         me.read();
     },
 
     read: function (id) {
-        var view=this.getView();
-        var form=view.getForm();
-        var url=Ext.String.endsWith(view.url,'/')?view.url+'read':view.url+'/read';
-        abp.util.ajax({
-            url:url,
-            jsonData:{id:id},
-            success: function (retObj,response, opts) {
-                if(retObj.success){
-                    var model=Ext.create(view.model);
-                    model.set(retObj.result.entitys[0]);
+        var view = this.getView();
+        var form = view.getForm();
+        var url = Ext.String.endsWith(view.url, '/') ? view.url + 'read' : view.url + '/read';
+        abp.utils.ajax({
+            url: url,
+            jsonData: {
+                id: id
+            },
+            success: function (retObj, response, opts) {
+                if (retObj.Success) {
+                    var model = Ext.create(view.model);
+                    model.set(retObj.Entitys[0]);
                     form.loadRecord(model);
-                }
-                else{
-                    abp.msg.error(retObj.message);
+                } else {
+                    abp.msg.error(retObj.Message);
                 }
                 view.unmask();
             },
             failure: function (form, action) {
-                console.log('error',response);
+                console.log('error', response);
                 abp.msg.error('通讯错误');
                 view.unmask();
             }
         });
         view.mask('正在读取中...');
-   
+
     },
 
     oncreate_excute: function () {
-        var view=this.getView();
+        var view = this.getView();
         var form = this.getView().getForm();
 
         if (!form.isDirty()) {
             abp.msg.warn('没有修改数据，不需要保存。');
             return;
-        }
-        else if (!form.isValid()) {
+        } else if (!form.isValid()) {
             abp.msg.warn('有必填项没有填写，请先填写所有必填项。');
             return;
         }
-        var url=Ext.String.endsWith(view.url,'/')?view.url+'create':view.url+'/create';
-        var formValue=form.getValues();
-        abp.util.ajax({
-            url:url,
-            jsonData:formValue,
-            success: function (retObj,response, opts) {
-                if(retObj.success){
-                    var model=Ext.create(view.model);
-                    model.set(retObj.result.entitys[0]);
+
+        var url = Ext.String.endsWith(view.url, '/') ? view.url + 'create' : view.url + '/create';
+        var formValue = form.getValues();
+        var jsonData = {
+            Entity: formValue
+        };
+        abp.utils.ajax({
+            url: url,
+            jsonData: jsonData,
+            success: function (retObj, response, opts) {
+                if (retObj.Success) {
+                    var model = Ext.create(view.model);
+                    model.set(retObj.Entitys[0]);
                     form.loadRecord(model);
-                }
-                else{
-                    abp.msg.error(retObj.message);
+                    abp.msg.toast('保存成功!');
+                } else {
+                    abp.msg.error(retObj.Message);
                 }
                 view.unmask();
             },
             failure: function (response) {
-                console.log('error',response);
+                console.log('error', response);
                 abp.msg.error('通讯错误');
                 view.unmask();
             }
         });
         view.mask('正在保存中...');
-       
+
     },
 
     onupdate_excute: function () {
-        var view=this.getView();
+        var view = this.getView();
         var form = this.getView().getForm();
 
         if (!form.isDirty()) {
             abp.msg.warn('没有修改数据，不需要保存。');
             return;
-        }
-        else if (!form.isValid()) {
+        } else if (!form.isValid()) {
             abp.msg.warn('有必填项没有填写，请先填写所有必填项。');
             return;
         }
-        var url=Ext.String.endsWith(view.url,'/')?view.url+'update':view.url+'/update';
-        var formValue=form.getValues();
-        abp.util.ajax({
-            url:url,
-            jsonData:formValue,
-            success: function (retObj,response, opts) {
-                if(retObj.success){
-                    var model=Ext.create(view.model);
-                    model.set(retObj.result.entitys[0]);
+        var url = Ext.String.endsWith(view.url, '/') ? view.url + 'update' : view.url + '/update';
+        var formValue = form.getValues();
+        abp.utils.ajax({
+            url: url,
+            jsonData: formValue,
+            success: function (retObj, response, opts) {
+                if (retObj.Success) {
+                    var model = Ext.create(view.model);
+                    model.set(retObj.Entitys[0]);
                     form.loadRecord(model);
-                }
-                else{
-                    abp.msg.error(retObj.message);
+                } else {
+                    abp.msg.error(retObj.Message);
                 }
                 view.unmask();
             },
             failure: function (response) {
-                console.log('error',response);
+                console.log('error', response);
                 abp.msg.error('通讯错误');
                 view.unmask();
             }
@@ -139,8 +150,8 @@ Ext.define('abp.component.form.AbpFormCtl',{
         view.mask('正在保存中...');
     },
 
-    onback_excute:function(){
-        console.log('back',this);
-        this.getView().fireEvent('switchPage',0);
+    onback_excute: function () {
+        console.log('back', this);
+        this.getView().fireEvent('switchPage', 0);
     }
 });

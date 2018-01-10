@@ -1,5 +1,5 @@
 $app-name:  dynamic( 'abp' );
-$image-search-path: '/Users/xuyanjun/Documents/GitHub/LiftNextCoreOpen/LiftNext.Framework.Mvc/wwwroot/abpSource/build/development/abp/classic/resources';
+$image-search-path: 'F:/Visual Studio 2017/Projects/LiftNextCoreOpen/LiftNext.Framework.Mvc/wwwroot/abpSource/build/development/abp/classic/resources';
 $theme-name:  dynamic( 'abp-theme' );
 $include-ext-abstractcomponent: dynamic(true);;
 $include-ext-abstractcontainer: dynamic(true);;

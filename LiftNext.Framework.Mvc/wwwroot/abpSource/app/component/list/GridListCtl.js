@@ -26,6 +26,21 @@ Ext.define('abp.component.list.GridListCtl',{
 
     oncreate_excute:function(){
         //abp.msg.success('success');
-        this.getView().fireEvent('switchPage',1,'abc');
-    }
+        this.getView().fireEvent('switchPage',1);
+    },
+    onedit_excute:function(){
+        var me=this;
+        var view=me.getView();
+        var selection=view.getSelection();
+        if(!Ext.isEmpty(selection)){
+            abp.msg.error("请先选中数据!");
+            return;
+        }
+        if(selection.length>1){
+            abp.msg.error("最多只能选择一条数据!");
+            return;
+        }
+        this.getView().fireEvent('switchPage',1,selection[0]);
+        
+    },
 });

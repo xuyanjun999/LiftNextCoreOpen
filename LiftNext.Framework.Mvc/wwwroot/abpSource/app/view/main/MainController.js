@@ -9,6 +9,19 @@ Ext.define('abp.view.main.MainController', {
 
     alias: 'controller.main',
 
+    listen: {
+        controller: {
+            '#': {
+                unmatchedroute: 'onUnmatchedRoute'
+            }
+        }
+    },
+
+    onUnmatchedRoute: function(hash) {
+        console.log('Unmatched', hash);
+        // Do something...
+    },
+
     onItemSelected: function (sender, record) {
         Ext.Msg.confirm('Confirm', 'Are you sure?', 'onConfirm', this);
     },

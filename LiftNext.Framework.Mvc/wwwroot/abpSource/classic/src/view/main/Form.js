@@ -4,11 +4,13 @@ Ext.define('abp.view.main.Form', {
     xtype: 'mainform',
     form: {
         xtype:'abpform',
+        model:'abp.model.sys.Menu',
+        url:'/menu',
         items:[{
             xtype:'textfield',
             name:'Name',
             fieldLabel:'名称',
-            value:'xuyanjun'
+            value:''
         },{
             xtype:'textfield',
             name:'Code',
@@ -23,7 +25,7 @@ Ext.define('abp.view.main.Form', {
             xtype:'textfield',
             name:'Name1',
             fieldLabel:'名称',
-            value:'xuyanjun'
+            value:''
         },{
             xtype:'textfield',
             name:'Code1',
@@ -34,6 +36,10 @@ Ext.define('abp.view.main.Form', {
             name:'Url1',
             fieldLabel:'Url',
             value:''
+        }],
+        tbar:[{
+            text:'保存',
+            action:'create'
         }]
     }, //form
 });

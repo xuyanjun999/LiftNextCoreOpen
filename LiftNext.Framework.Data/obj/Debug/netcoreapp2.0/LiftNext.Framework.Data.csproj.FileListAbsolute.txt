@@ -9,3 +9,14 @@ C:\SGProject\LiftNextCoreOpen\LiftNext.Framework.Data\obj\Debug\netcoreapp2.0\Li
 C:\SGProject\LiftNextCoreOpen\LiftNext.Framework.Data\obj\Debug\netcoreapp2.0\LiftNext.Framework.Data.AssemblyInfo.cs
 C:\SGProject\LiftNextCoreOpen\LiftNext.Framework.Data\obj\Debug\netcoreapp2.0\LiftNext.Framework.Data.dll
 C:\SGProject\LiftNextCoreOpen\LiftNext.Framework.Data\obj\Debug\netcoreapp2.0\LiftNext.Framework.Data.pdb
+F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Data\bin\Debug\netcoreapp2.0\LiftNext.Framework.Data.deps.json
+F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Data\bin\Debug\netcoreapp2.0\LiftNext.Framework.Data.dll
+F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Data\bin\Debug\netcoreapp2.0\LiftNext.Framework.Data.pdb
+F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Data\bin\Debug\netcoreapp2.0\LiftNext.Framework.Code.dll
+F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Data\bin\Debug\netcoreapp2.0\LiftNext.Framework.Code.pdb
+F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Data\obj\Debug\netcoreapp2.0\LiftNext.Framework.Data.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Data\obj\Debug\netcoreapp2.0\LiftNext.Framework.Data.csproj.CoreCompileInputs.cache
+F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Data\obj\Debug\netcoreapp2.0\LiftNext.Framework.Data.AssemblyInfoInputs.cache
+F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Data\obj\Debug\netcoreapp2.0\LiftNext.Framework.Data.AssemblyInfo.cs
+F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Data\obj\Debug\netcoreapp2.0\LiftNext.Framework.Data.dll
+F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Data\obj\Debug\netcoreapp2.0\LiftNext.Framework.Data.pdb

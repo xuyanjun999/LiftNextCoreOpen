@@ -7,3 +7,12 @@ C:\SGProject\LiftNextCoreOpen\LiftNext.Framework.Mapping\obj\Debug\netcoreapp2.0
 C:\SGProject\LiftNextCoreOpen\LiftNext.Framework.Mapping\obj\Debug\netcoreapp2.0\LiftNext.Framework.Mapping.AssemblyInfo.cs
 C:\SGProject\LiftNextCoreOpen\LiftNext.Framework.Mapping\obj\Debug\netcoreapp2.0\LiftNext.Framework.Mapping.dll
 C:\SGProject\LiftNextCoreOpen\LiftNext.Framework.Mapping\obj\Debug\netcoreapp2.0\LiftNext.Framework.Mapping.pdb
+F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Mvc\bin\Debug\netcoreapp2.0\LiftNext.Framework.Mapping.deps.json
+F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Mvc\bin\Debug\netcoreapp2.0\LiftNext.Framework.Mapping.dll
+F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Mvc\bin\Debug\netcoreapp2.0\LiftNext.Framework.Mapping.pdb
+F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Mapping\obj\Debug\netcoreapp2.0\LiftNext.Framework.Mapping.csprojResolveAssemblyReference.cache
+F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Mapping\obj\Debug\netcoreapp2.0\LiftNext.Framework.Mapping.csproj.CoreCompileInputs.cache
+F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Mapping\obj\Debug\netcoreapp2.0\LiftNext.Framework.Mapping.AssemblyInfoInputs.cache
+F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Mapping\obj\Debug\netcoreapp2.0\LiftNext.Framework.Mapping.AssemblyInfo.cs
+F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Mapping\obj\Debug\netcoreapp2.0\LiftNext.Framework.Mapping.dll
+F:\Visual Studio 2017\Projects\LiftNextCoreOpen\LiftNext.Framework.Mapping\obj\Debug\netcoreapp2.0\LiftNext.Framework.Mapping.pdb
